@@ -1,0 +1,1170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="93f37a84-f0ac-4c69-b4c9-8d45e3e87b93" Title="MusicBrainz" Url="html/N_MusicBrainz.htm">
+    <HelpTOCNode Id="309cce36-0a06-4b41-b882-9098a9edd57d" Title="ApiStatus Class" Url="html/T_MusicBrainz_ApiStatus.htm">
+      <HelpTOCNode Title="ApiStatus Constructor " Url="html/M_MusicBrainz_ApiStatus__ctor.htm" />
+      <HelpTOCNode Id="0a2bf0c1-380b-44c7-93a4-cf7b9539073b" Title="ApiStatus Properties" Url="html/Properties_T_MusicBrainz_ApiStatus.htm">
+        <HelpTOCNode Title="ErrorMessage Property " Url="html/P_MusicBrainz_ApiStatus_ErrorMessage.htm" />
+        <HelpTOCNode Title="ErrorOccurred Property " Url="html/P_MusicBrainz_ApiStatus_ErrorOccurred.htm" />
+        <HelpTOCNode Title="Response Property " Url="html/P_MusicBrainz_ApiStatus_Response.htm" />
+        <HelpTOCNode Title="ResponseCode Property " Url="html/P_MusicBrainz_ApiStatus_ResponseCode.htm" />
+        <HelpTOCNode Title="ResponseUrl Property " Url="html/P_MusicBrainz_ApiStatus_ResponseUrl.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fffe598d-1c9f-4b6e-8064-82c2fca60fce" Title="Browse Class" Url="html/T_MusicBrainz_Browse.htm">
+      <HelpTOCNode Title="Browse Constructor " Url="html/M_MusicBrainz_Browse__ctor.htm" />
+      <HelpTOCNode Id="a221e1e6-433a-4f67-b03a-0c987445814f" Title="Browse Methods" Url="html/Methods_T_MusicBrainz_Browse.htm">
+        <HelpTOCNode Title="Area Method " Url="html/M_MusicBrainz_Browse_Area.htm" />
+        <HelpTOCNode Title="Artist Method " Url="html/M_MusicBrainz_Browse_Artist.htm" />
+        <HelpTOCNode Title="Collection Method " Url="html/M_MusicBrainz_Browse_Collection.htm" />
+        <HelpTOCNode Title="Event Method " Url="html/M_MusicBrainz_Browse_Event.htm" />
+        <HelpTOCNode Title="Instrument Method " Url="html/M_MusicBrainz_Browse_Instrument.htm" />
+        <HelpTOCNode Title="Label Method " Url="html/M_MusicBrainz_Browse_Label.htm" />
+        <HelpTOCNode Title="Place Method " Url="html/M_MusicBrainz_Browse_Place.htm" />
+        <HelpTOCNode Title="Recording Method " Url="html/M_MusicBrainz_Browse_Recording.htm" />
+        <HelpTOCNode Title="Release Method " Url="html/M_MusicBrainz_Browse_Release.htm" />
+        <HelpTOCNode Title="ReleaseGroup Method " Url="html/M_MusicBrainz_Browse_ReleaseGroup.htm" />
+        <HelpTOCNode Title="Series Method " Url="html/M_MusicBrainz_Browse_Series.htm" />
+        <HelpTOCNode Title="Url Method " Url="html/M_MusicBrainz_Browse_Url.htm" />
+        <HelpTOCNode Title="Work Method " Url="html/M_MusicBrainz_Browse_Work.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Browse.Status Enumeration" Url="html/T_MusicBrainz_Browse_Status.htm" />
+    <HelpTOCNode Title="Browse.Type Enumeration" Url="html/T_MusicBrainz_Browse_Type.htm" />
+    <HelpTOCNode Id="e35e1b64-414d-4595-9fcd-be6feef32418" Title="Lookup Class" Url="html/T_MusicBrainz_Lookup.htm">
+      <HelpTOCNode Title="Lookup Constructor " Url="html/M_MusicBrainz_Lookup__ctor.htm" />
+      <HelpTOCNode Id="0b08d380-1d94-4f53-906e-c983d5875786" Title="Lookup Properties" Url="html/Properties_T_MusicBrainz_Lookup.htm">
+        <HelpTOCNode Title="UseAllIncs Property " Url="html/P_MusicBrainz_Lookup_UseAllIncs.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6c75ebbd-f9f2-4c13-a921-f82590a6b1c4" Title="Lookup Methods" Url="html/Methods_T_MusicBrainz_Lookup.htm">
+        <HelpTOCNode Title="Area Method " Url="html/M_MusicBrainz_Lookup_Area.htm" />
+        <HelpTOCNode Title="Artist Method " Url="html/M_MusicBrainz_Lookup_Artist.htm" />
+        <HelpTOCNode Title="Collection Method " Url="html/M_MusicBrainz_Lookup_Collection.htm" />
+        <HelpTOCNode Title="Event Method " Url="html/M_MusicBrainz_Lookup_Event.htm" />
+        <HelpTOCNode Title="Instrument Method " Url="html/M_MusicBrainz_Lookup_Instrument.htm" />
+        <HelpTOCNode Title="Label Method " Url="html/M_MusicBrainz_Lookup_Label.htm" />
+        <HelpTOCNode Title="Place Method " Url="html/M_MusicBrainz_Lookup_Place.htm" />
+        <HelpTOCNode Title="Recording Method " Url="html/M_MusicBrainz_Lookup_Recording.htm" />
+        <HelpTOCNode Title="Release Method " Url="html/M_MusicBrainz_Lookup_Release.htm" />
+        <HelpTOCNode Title="ReleaseGroup Method " Url="html/M_MusicBrainz_Lookup_ReleaseGroup.htm" />
+        <HelpTOCNode Title="Series Method " Url="html/M_MusicBrainz_Lookup_Series.htm" />
+        <HelpTOCNode Title="Url Method " Url="html/M_MusicBrainz_Lookup_Url.htm" />
+        <HelpTOCNode Title="Work Method " Url="html/M_MusicBrainz_Lookup_Work.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="68a18e69-86f0-4ce5-8704-44e7800f4515" Title="Search Class" Url="html/T_MusicBrainz_Search.htm">
+      <HelpTOCNode Title="Search Constructor " Url="html/M_MusicBrainz_Search__ctor.htm" />
+      <HelpTOCNode Id="8940b4e7-c1fb-46b8-b150-90715b5f284b" Title="Search Methods" Url="html/Methods_T_MusicBrainz_Search.htm">
+        <HelpTOCNode Title="Annotation Method " Url="html/M_MusicBrainz_Search_Annotation.htm" />
+        <HelpTOCNode Title="Area Method " Url="html/M_MusicBrainz_Search_Area.htm" />
+        <HelpTOCNode Title="Artist Method " Url="html/M_MusicBrainz_Search_Artist.htm" />
+        <HelpTOCNode Title="CdStub Method " Url="html/M_MusicBrainz_Search_CdStub.htm" />
+        <HelpTOCNode Title="Freedb Method " Url="html/M_MusicBrainz_Search_Freedb.htm" />
+        <HelpTOCNode Title="Label Method " Url="html/M_MusicBrainz_Search_Label.htm" />
+        <HelpTOCNode Title="Place Method " Url="html/M_MusicBrainz_Search_Place.htm" />
+        <HelpTOCNode Title="Recording Method " Url="html/M_MusicBrainz_Search_Recording.htm" />
+        <HelpTOCNode Title="Release Method " Url="html/M_MusicBrainz_Search_Release.htm" />
+        <HelpTOCNode Title="ReleaseGroup Method " Url="html/M_MusicBrainz_Search_ReleaseGroup.htm" />
+        <HelpTOCNode Title="Taglist Method " Url="html/M_MusicBrainz_Search_Taglist.htm" />
+        <HelpTOCNode Title="Work Method " Url="html/M_MusicBrainz_Search_Work.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d279b33e-eabc-4d4a-a989-ea7245cb43ea" Title="MusicBrainz.Events" Url="html/N_MusicBrainz_Events.htm">
+    <HelpTOCNode Id="a420f79d-0edf-4472-bea0-e603c92d1739" Title="EventArg Class" Url="html/T_MusicBrainz_Events_EventArg.htm">
+      <HelpTOCNode Title="EventArg Constructor " Url="html/M_MusicBrainz_Events_EventArg__ctor.htm" />
+      <HelpTOCNode Id="74212eb7-687c-4987-8530-6c14b9f924b5" Title="EventArg Properties" Url="html/Properties_T_MusicBrainz_Events_EventArg.htm">
+        <HelpTOCNode Title="Exception Property " Url="html/P_MusicBrainz_Events_EventArg_Exception.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/P_MusicBrainz_Events_EventArg_Message.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="baf3c172-0fdf-4ffd-99d3-a8bfd4e32a7d" Title="Exceptions Class" Url="html/T_MusicBrainz_Events_Exceptions.htm">
+      <HelpTOCNode Title="Exceptions Constructor " Url="html/M_MusicBrainz_Events_Exceptions__ctor.htm" />
+      <HelpTOCNode Id="37c0e1d1-8b16-4ad2-9e44-f65cccde466e" Title="Exceptions Properties" Url="html/Properties_T_MusicBrainz_Events_Exceptions.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/P_MusicBrainz_Events_Exceptions_Instance.htm" />
+        <HelpTOCNode Title="Message Property " Url="html/P_MusicBrainz_Events_Exceptions_Message.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="cab61c1b-424b-4d89-ae0f-263cc504193b" Title="Exceptions Methods" Url="html/Methods_T_MusicBrainz_Events_Exceptions.htm">
+        <HelpTOCNode Title="NewException Method " Url="html/M_MusicBrainz_Events_Exceptions_NewException.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="80238603-8c83-4aa7-8b73-41cb5d34fd6e" Title="Exceptions Events" Url="html/Events_T_MusicBrainz_Events_Exceptions.htm">
+        <HelpTOCNode Title="Call Event" Url="html/E_MusicBrainz_Events_Exceptions_Call.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8ea94733-a5fc-4487-ba45-5165c3132bbd" Title="Exceptions Fields" Url="html/Fields_T_MusicBrainz_Events_Exceptions.htm">
+        <HelpTOCNode Title="ErrorOccurred Field" Url="html/F_MusicBrainz_Events_Exceptions_ErrorOccurred.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Exceptions.EventHandler Delegate" Url="html/T_MusicBrainz_Events_Exceptions_EventHandler.htm" />
+    <HelpTOCNode Id="4589fdf5-1f4c-4bb8-8c0c-6306799f9582" Title="LogEntry Class" Url="html/T_MusicBrainz_Events_LogEntry.htm">
+      <HelpTOCNode Id="d8a7029b-e2ec-4296-82c5-61bd44a00cbd" Title="LogEntry Constructor " Url="html/Overload_MusicBrainz_Events_LogEntry__ctor.htm">
+        <HelpTOCNode Title="LogEntry Constructor (String, String, String)" Url="html/M_MusicBrainz_Events_LogEntry__ctor.htm" />
+        <HelpTOCNode Title="LogEntry Constructor (String, String, String, Para)" Url="html/M_MusicBrainz_Events_LogEntry__ctor_1.htm" />
+        <HelpTOCNode Title="LogEntry Constructor (String, String, String, List(Para))" Url="html/M_MusicBrainz_Events_LogEntry__ctor_2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0febe9bd-58a9-466f-9a34-9f742dea62ce" Title="LogEntry Properties" Url="html/Properties_T_MusicBrainz_Events_LogEntry.htm">
+        <HelpTOCNode Title="Class Property " Url="html/P_MusicBrainz_Events_LogEntry_Class.htm" />
+        <HelpTOCNode Title="Function Property " Url="html/P_MusicBrainz_Events_LogEntry_Function.htm" />
+        <HelpTOCNode Title="Namespace Property " Url="html/P_MusicBrainz_Events_LogEntry_Namespace.htm" />
+        <HelpTOCNode Title="Parameters Property " Url="html/P_MusicBrainz_Events_LogEntry_Parameters.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ad3eb404-0075-4bed-9e83-6fa1a37e216a" Title="Logging Class" Url="html/T_MusicBrainz_Events_Logging.htm">
+      <HelpTOCNode Title="Logging Constructor " Url="html/M_MusicBrainz_Events_Logging__ctor.htm" />
+      <HelpTOCNode Id="f6dbc7c1-2e50-4a7b-8f64-19e26e3575fc" Title="Logging Properties" Url="html/Properties_T_MusicBrainz_Events_Logging.htm">
+        <HelpTOCNode Title="Instance Property " Url="html/P_MusicBrainz_Events_Logging_Instance.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="fb501827-a1cc-4af9-863d-5ec978944762" Title="Logging Methods" Url="html/Methods_T_MusicBrainz_Events_Logging.htm">
+        <HelpTOCNode Title="NewLogEntry Method " Url="html/M_MusicBrainz_Events_Logging_NewLogEntry.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8239d85d-3ce8-42b7-a670-747722411c16" Title="Logging Events" Url="html/Events_T_MusicBrainz_Events_Logging.htm">
+        <HelpTOCNode Title="Call Event" Url="html/E_MusicBrainz_Events_Logging_Call.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Logging.EventHandler Delegate" Url="html/T_MusicBrainz_Events_Logging_EventHandler.htm" />
+    <HelpTOCNode Id="6d475ab9-c83c-481b-9c22-9671fee6962e" Title="Para Class" Url="html/T_MusicBrainz_Events_Para.htm">
+      <HelpTOCNode Title="Para Constructor " Url="html/M_MusicBrainz_Events_Para__ctor.htm" />
+      <HelpTOCNode Id="d6bf1ad8-81d1-4f94-9f96-8ca117f35270" Title="Para Properties" Url="html/Properties_T_MusicBrainz_Events_Para.htm">
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Events_Para_Name.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P_MusicBrainz_Events_Para_Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="4a009ad1-703e-4bc0-b0ef-637087c4008f" Title="MusicBrainz.Metadata" Url="html/N_MusicBrainz_Metadata.htm">
+    <HelpTOCNode Id="d758ea54-db80-4b37-8f79-3e78d4d32ea5" Title="Alias Class" Url="html/T_MusicBrainz_Metadata_Alias.htm">
+      <HelpTOCNode Title="Alias Constructor " Url="html/M_MusicBrainz_Metadata_Alias__ctor.htm" />
+      <HelpTOCNode Id="28469210-d80c-40a6-b413-c52b5fa4fbb8" Title="Alias Properties" Url="html/Properties_T_MusicBrainz_Metadata_Alias.htm">
+        <HelpTOCNode Title="Begindate Property " Url="html/P_MusicBrainz_Metadata_Alias_Begindate.htm" />
+        <HelpTOCNode Title="Enddate Property " Url="html/P_MusicBrainz_Metadata_Alias_Enddate.htm" />
+        <HelpTOCNode Title="Locale Property " Url="html/P_MusicBrainz_Metadata_Alias_Locale.htm" />
+        <HelpTOCNode Title="Primary Property " Url="html/P_MusicBrainz_Metadata_Alias_Primary.htm" />
+        <HelpTOCNode Title="Sortname Property " Url="html/P_MusicBrainz_Metadata_Alias_Sortname.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P_MusicBrainz_Metadata_Alias_Text.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Alias_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Alias_Typeid.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0d569bd8-1b4a-48ae-a96c-13f8910d44fe" Title="Aliaslist Class" Url="html/T_MusicBrainz_Metadata_Aliaslist.htm">
+      <HelpTOCNode Title="Aliaslist Constructor " Url="html/M_MusicBrainz_Metadata_Aliaslist__ctor.htm" />
+      <HelpTOCNode Id="7299febc-cc02-449d-89d0-33b119900735" Title="Aliaslist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Aliaslist.htm">
+        <HelpTOCNode Title="Alias Property " Url="html/P_MusicBrainz_Metadata_Aliaslist_Alias.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Aliaslist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Aliaslist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cb7c15b3-48a0-48db-8d63-03dbe04bfbea" Title="Annotation Class" Url="html/T_MusicBrainz_Metadata_Annotation.htm">
+      <HelpTOCNode Title="Annotation Constructor " Url="html/M_MusicBrainz_Metadata_Annotation__ctor.htm" />
+      <HelpTOCNode Id="92eac444-ebdd-42a9-b8f9-141c2ea95fe0" Title="Annotation Properties" Url="html/Properties_T_MusicBrainz_Metadata_Annotation.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Annotation_ApiStatus.htm" />
+        <HelpTOCNode Title="Entity Property " Url="html/P_MusicBrainz_Metadata_Annotation_Entity.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Annotation_Name.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P_MusicBrainz_Metadata_Annotation_Text.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Annotation_Type.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1a027b48-a6a9-43d9-8d12-1586663c88c6" Title="Annotationlist Class" Url="html/T_MusicBrainz_Metadata_Annotationlist.htm">
+      <HelpTOCNode Title="Annotationlist Constructor " Url="html/M_MusicBrainz_Metadata_Annotationlist__ctor.htm" />
+      <HelpTOCNode Id="0c5ada22-2496-4057-b5c6-33f6311a09ae" Title="Annotationlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Annotationlist.htm">
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Annotationlist_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Annotationlist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Annotationlist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Annotationlist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2367c80f-4e56-4d82-8a6e-689eeee1771d" Title="Area Class" Url="html/T_MusicBrainz_Metadata_Area.htm">
+      <HelpTOCNode Title="Area Constructor " Url="html/M_MusicBrainz_Metadata_Area__ctor.htm" />
+      <HelpTOCNode Id="ab9435f0-2c93-417c-b884-fe74f404668a" Title="Area Properties" Url="html/Properties_T_MusicBrainz_Metadata_Area.htm">
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Area_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Area_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Area_ApiStatus.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Area_Disambiguation.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Area_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Area_Id.htm" />
+        <HelpTOCNode Title="Iso31661codelist Property " Url="html/P_MusicBrainz_Metadata_Area_Iso31661codelist.htm" />
+        <HelpTOCNode Title="Iso31662codelist Property " Url="html/P_MusicBrainz_Metadata_Area_Iso31662codelist.htm" />
+        <HelpTOCNode Title="Iso31663codelist Property " Url="html/P_MusicBrainz_Metadata_Area_Iso31663codelist.htm" />
+        <HelpTOCNode Title="Lifespan Property " Url="html/P_MusicBrainz_Metadata_Area_Lifespan.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Area_Name.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Area_Relationlist.htm" />
+        <HelpTOCNode Title="Sortname Property " Url="html/P_MusicBrainz_Metadata_Area_Sortname.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Area_Taglist.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Area_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Area_Typeid.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Area_Usergenrelist.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Area_Usertaglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b6a2bcb2-ddbf-49ef-b296-687e6cb5bd1a" Title="Arealist Class" Url="html/T_MusicBrainz_Metadata_Arealist.htm">
+      <HelpTOCNode Title="Arealist Constructor " Url="html/M_MusicBrainz_Metadata_Arealist__ctor.htm" />
+      <HelpTOCNode Id="400633ac-45db-4a68-9f8e-6669c19c3b48" Title="Arealist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Arealist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Arealist_ApiStatus.htm" />
+        <HelpTOCNode Title="Area Property " Url="html/P_MusicBrainz_Metadata_Arealist_Area.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Arealist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Arealist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ab0772de-62b7-4c2a-944f-e0d2ce674a34" Title="Artist Class" Url="html/T_MusicBrainz_Metadata_Artist.htm">
+      <HelpTOCNode Title="Artist Constructor " Url="html/M_MusicBrainz_Metadata_Artist__ctor.htm" />
+      <HelpTOCNode Id="0f9a8a03-c667-447e-8210-53fbfae0236f" Title="Artist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Artist.htm">
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Artist_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Artist_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Artist_ApiStatus.htm" />
+        <HelpTOCNode Title="Area Property " Url="html/P_MusicBrainz_Metadata_Artist_Area.htm" />
+        <HelpTOCNode Title="Beginarea Property " Url="html/P_MusicBrainz_Metadata_Artist_Beginarea.htm" />
+        <HelpTOCNode Title="Country Property " Url="html/P_MusicBrainz_Metadata_Artist_Country.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Artist_Disambiguation.htm" />
+        <HelpTOCNode Title="Endarea Property " Url="html/P_MusicBrainz_Metadata_Artist_Endarea.htm" />
+        <HelpTOCNode Title="Gender Property " Url="html/P_MusicBrainz_Metadata_Artist_Gender.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Artist_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Artist_Id.htm" />
+        <HelpTOCNode Title="Ipi Property " Url="html/P_MusicBrainz_Metadata_Artist_Ipi.htm" />
+        <HelpTOCNode Title="Ipilist Property " Url="html/P_MusicBrainz_Metadata_Artist_Ipilist.htm" />
+        <HelpTOCNode Title="Isnilist Property " Url="html/P_MusicBrainz_Metadata_Artist_Isnilist.htm" />
+        <HelpTOCNode Title="Lifespan Property " Url="html/P_MusicBrainz_Metadata_Artist_Lifespan.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Artist_Name.htm" />
+        <HelpTOCNode Title="Rating Property " Url="html/P_MusicBrainz_Metadata_Artist_Rating.htm" />
+        <HelpTOCNode Title="Recordinglist Property " Url="html/P_MusicBrainz_Metadata_Artist_Recordinglist.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Artist_Relationlist.htm" />
+        <HelpTOCNode Title="Releasegrouplist Property " Url="html/P_MusicBrainz_Metadata_Artist_Releasegrouplist.htm" />
+        <HelpTOCNode Title="Releaselist Property " Url="html/P_MusicBrainz_Metadata_Artist_Releaselist.htm" />
+        <HelpTOCNode Title="Sortname Property " Url="html/P_MusicBrainz_Metadata_Artist_Sortname.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Artist_Taglist.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Artist_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Artist_Typeid.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Artist_Usergenrelist.htm" />
+        <HelpTOCNode Title="Userrating Property " Url="html/P_MusicBrainz_Metadata_Artist_Userrating.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Artist_Usertaglist.htm" />
+        <HelpTOCNode Title="Worklist Property " Url="html/P_MusicBrainz_Metadata_Artist_Worklist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0e7712ab-f2f9-4519-9fed-79834cdbdb1d" Title="Artistcredit Class" Url="html/T_MusicBrainz_Metadata_Artistcredit.htm">
+      <HelpTOCNode Title="Artistcredit Constructor " Url="html/M_MusicBrainz_Metadata_Artistcredit__ctor.htm" />
+      <HelpTOCNode Id="540d4a72-485c-4eea-b15f-c630df710e24" Title="Artistcredit Properties" Url="html/Properties_T_MusicBrainz_Metadata_Artistcredit.htm">
+        <HelpTOCNode Title="Namecredit Property " Url="html/P_MusicBrainz_Metadata_Artistcredit_Namecredit.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="28a76bdd-09e8-44b0-953d-aa927400dbef" Title="Artistlist Class" Url="html/T_MusicBrainz_Metadata_Artistlist.htm">
+      <HelpTOCNode Title="Artistlist Constructor " Url="html/M_MusicBrainz_Metadata_Artistlist__ctor.htm" />
+      <HelpTOCNode Id="ccb558c1-e75d-4262-84a4-b62be54e241d" Title="Artistlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Artistlist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Artistlist_ApiStatus.htm" />
+        <HelpTOCNode Title="Artist Property " Url="html/P_MusicBrainz_Metadata_Artistlist_Artist.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Artistlist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Artistlist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Artwork Enumeration" Url="html/T_MusicBrainz_Metadata_Artwork.htm" />
+    <HelpTOCNode Title="Back Enumeration" Url="html/T_MusicBrainz_Metadata_Back.htm" />
+    <HelpTOCNode Title="Cancelled Enumeration" Url="html/T_MusicBrainz_Metadata_Cancelled.htm" />
+    <HelpTOCNode Id="ec732cac-f5bf-46b1-8ddb-73b545723423" Title="Cdstub Class" Url="html/T_MusicBrainz_Metadata_Cdstub.htm">
+      <HelpTOCNode Title="Cdstub Constructor " Url="html/M_MusicBrainz_Metadata_Cdstub__ctor.htm" />
+      <HelpTOCNode Id="f4d99f51-f5c4-4e75-b071-4a4b6f6a366e" Title="Cdstub Properties" Url="html/Properties_T_MusicBrainz_Metadata_Cdstub.htm">
+        <HelpTOCNode Title="Artist Property " Url="html/P_MusicBrainz_Metadata_Cdstub_Artist.htm" />
+        <HelpTOCNode Title="Barcode Property " Url="html/P_MusicBrainz_Metadata_Cdstub_Barcode.htm" />
+        <HelpTOCNode Title="Comment Property " Url="html/P_MusicBrainz_Metadata_Cdstub_Comment.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Cdstub_Id.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_MusicBrainz_Metadata_Cdstub_Title.htm" />
+        <HelpTOCNode Title="Tracklist Property " Url="html/P_MusicBrainz_Metadata_Cdstub_Tracklist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6b8ed0ed-ba0c-4343-a33a-1431c310cada" Title="Cdstublist Class" Url="html/T_MusicBrainz_Metadata_Cdstublist.htm">
+      <HelpTOCNode Title="Cdstublist Constructor " Url="html/M_MusicBrainz_Metadata_Cdstublist__ctor.htm" />
+      <HelpTOCNode Id="ebb2048d-1256-493b-a12c-9237db891534" Title="Cdstublist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Cdstublist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Cdstublist_ApiStatus.htm" />
+        <HelpTOCNode Title="Cdstub Property " Url="html/P_MusicBrainz_Metadata_Cdstublist_Cdstub.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Cdstublist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Cdstublist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c9bd98d8-f243-4ecc-ae86-8e34fbed1217" Title="CdstubTracklist Class" Url="html/T_MusicBrainz_Metadata_CdstubTracklist.htm">
+      <HelpTOCNode Title="CdstubTracklist Constructor " Url="html/M_MusicBrainz_Metadata_CdstubTracklist__ctor.htm" />
+      <HelpTOCNode Id="6cfa0394-f95d-4a60-8350-e9e35aa8ac47" Title="CdstubTracklist Properties" Url="html/Properties_T_MusicBrainz_Metadata_CdstubTracklist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_CdstubTracklist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_CdstubTracklist_Offset.htm" />
+        <HelpTOCNode Title="Track Property " Url="html/P_MusicBrainz_Metadata_CdstubTracklist_Track.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="862a4f90-023f-436f-807e-8033e74cdbef" Title="CdstubTracklistTrack Class" Url="html/T_MusicBrainz_Metadata_CdstubTracklistTrack.htm">
+      <HelpTOCNode Title="CdstubTracklistTrack Constructor " Url="html/M_MusicBrainz_Metadata_CdstubTracklistTrack__ctor.htm" />
+      <HelpTOCNode Id="c88d2796-38dd-4265-89d2-bda5e6c23a4b" Title="CdstubTracklistTrack Properties" Url="html/Properties_T_MusicBrainz_Metadata_CdstubTracklistTrack.htm">
+        <HelpTOCNode Title="Artist Property " Url="html/P_MusicBrainz_Metadata_CdstubTracklistTrack_Artist.htm" />
+        <HelpTOCNode Title="Length Property " Url="html/P_MusicBrainz_Metadata_CdstubTracklistTrack_Length.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_MusicBrainz_Metadata_CdstubTracklistTrack_Title.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6afe416f-a2fa-4607-83b7-e85b2dae5b1c" Title="Collection Class" Url="html/T_MusicBrainz_Metadata_Collection.htm">
+      <HelpTOCNode Title="Collection Constructor " Url="html/M_MusicBrainz_Metadata_Collection__ctor.htm" />
+      <HelpTOCNode Id="bf8c716e-8319-41f1-985f-740f15042a9e" Title="Collection Properties" Url="html/Properties_T_MusicBrainz_Metadata_Collection.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Collection_ApiStatus.htm" />
+        <HelpTOCNode Title="Arealist Property " Url="html/P_MusicBrainz_Metadata_Collection_Arealist.htm" />
+        <HelpTOCNode Title="Artistlist Property " Url="html/P_MusicBrainz_Metadata_Collection_Artistlist.htm" />
+        <HelpTOCNode Title="Editor Property " Url="html/P_MusicBrainz_Metadata_Collection_Editor.htm" />
+        <HelpTOCNode Title="Entitytype Property " Url="html/P_MusicBrainz_Metadata_Collection_Entitytype.htm" />
+        <HelpTOCNode Title="Eventlist Property " Url="html/P_MusicBrainz_Metadata_Collection_Eventlist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Collection_Id.htm" />
+        <HelpTOCNode Title="Instrumentlist Property " Url="html/P_MusicBrainz_Metadata_Collection_Instrumentlist.htm" />
+        <HelpTOCNode Title="Labellist Property " Url="html/P_MusicBrainz_Metadata_Collection_Labellist.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Collection_Name.htm" />
+        <HelpTOCNode Title="Placelist Property " Url="html/P_MusicBrainz_Metadata_Collection_Placelist.htm" />
+        <HelpTOCNode Title="Recordinglist Property " Url="html/P_MusicBrainz_Metadata_Collection_Recordinglist.htm" />
+        <HelpTOCNode Title="Releasegrouplist Property " Url="html/P_MusicBrainz_Metadata_Collection_Releasegrouplist.htm" />
+        <HelpTOCNode Title="Releaselist Property " Url="html/P_MusicBrainz_Metadata_Collection_Releaselist.htm" />
+        <HelpTOCNode Title="Serieslist Property " Url="html/P_MusicBrainz_Metadata_Collection_Serieslist.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Collection_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Collection_Typeid.htm" />
+        <HelpTOCNode Title="Worklist Property " Url="html/P_MusicBrainz_Metadata_Collection_Worklist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8a30dbb1-2729-460b-b3c7-abd178006882" Title="Collectionlist Class" Url="html/T_MusicBrainz_Metadata_Collectionlist.htm">
+      <HelpTOCNode Title="Collectionlist Constructor " Url="html/M_MusicBrainz_Metadata_Collectionlist__ctor.htm" />
+      <HelpTOCNode Id="9698a4ef-38b4-4d2f-a659-270ed540de83" Title="Collectionlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Collectionlist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Collectionlist_ApiStatus.htm" />
+        <HelpTOCNode Title="Collection Property " Url="html/P_MusicBrainz_Metadata_Collectionlist_Collection.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Collectionlist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Collectionlist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c054afb9-1551-4b0b-b3e0-79f437b81150" Title="Coordinates Class" Url="html/T_MusicBrainz_Metadata_Coordinates.htm">
+      <HelpTOCNode Title="Coordinates Constructor " Url="html/M_MusicBrainz_Metadata_Coordinates__ctor.htm" />
+      <HelpTOCNode Id="7a0c1575-0b94-488d-a438-42e8c8dee3a6" Title="Coordinates Properties" Url="html/Properties_T_MusicBrainz_Metadata_Coordinates.htm">
+        <HelpTOCNode Title="Latitude Property " Url="html/P_MusicBrainz_Metadata_Coordinates_Latitude.htm" />
+        <HelpTOCNode Title="Longitude Property " Url="html/P_MusicBrainz_Metadata_Coordinates_Longitude.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9427bf9c-f769-4929-b524-34074b631823" Title="Coverartarchive Class" Url="html/T_MusicBrainz_Metadata_Coverartarchive.htm">
+      <HelpTOCNode Title="Coverartarchive Constructor " Url="html/M_MusicBrainz_Metadata_Coverartarchive__ctor.htm" />
+      <HelpTOCNode Id="7852cfc4-4bbf-4166-bf4d-4d6889ee9881" Title="Coverartarchive Properties" Url="html/Properties_T_MusicBrainz_Metadata_Coverartarchive.htm">
+        <HelpTOCNode Title="Artwork Property " Url="html/P_MusicBrainz_Metadata_Coverartarchive_Artwork.htm" />
+        <HelpTOCNode Title="Back Property " Url="html/P_MusicBrainz_Metadata_Coverartarchive_Back.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Coverartarchive_Count.htm" />
+        <HelpTOCNode Title="Darkened Property " Url="html/P_MusicBrainz_Metadata_Coverartarchive_Darkened.htm" />
+        <HelpTOCNode Title="Front Property " Url="html/P_MusicBrainz_Metadata_Coverartarchive_Front.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Darkened Enumeration" Url="html/T_MusicBrainz_Metadata_Darkened.htm" />
+    <HelpTOCNode Id="d0ada207-df23-4bbc-87e7-d997ace0afa2" Title="Datatracklist Class" Url="html/T_MusicBrainz_Metadata_Datatracklist.htm">
+      <HelpTOCNode Title="Datatracklist Constructor " Url="html/M_MusicBrainz_Metadata_Datatracklist__ctor.htm" />
+      <HelpTOCNode Id="ff9ebb6c-0293-477c-9c48-fef4cf0ad91a" Title="Datatracklist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Datatracklist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Datatracklist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Datatracklist_Offset.htm" />
+        <HelpTOCNode Title="Track Property " Url="html/P_MusicBrainz_Metadata_Datatracklist_Track.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Direction Enumeration" Url="html/T_MusicBrainz_Metadata_Direction.htm" />
+    <HelpTOCNode Id="47324f7c-4399-4168-8e1b-a07cc904679a" Title="Disc Class" Url="html/T_MusicBrainz_Metadata_Disc.htm">
+      <HelpTOCNode Title="Disc Constructor " Url="html/M_MusicBrainz_Metadata_Disc__ctor.htm" />
+      <HelpTOCNode Id="e83b97b7-8136-400b-9f1b-dac442ffeb8a" Title="Disc Properties" Url="html/Properties_T_MusicBrainz_Metadata_Disc.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Disc_Id.htm" />
+        <HelpTOCNode Title="Offsetlist Property " Url="html/P_MusicBrainz_Metadata_Disc_Offsetlist.htm" />
+        <HelpTOCNode Title="Releaselist Property " Url="html/P_MusicBrainz_Metadata_Disc_Releaselist.htm" />
+        <HelpTOCNode Title="Sectors Property " Url="html/P_MusicBrainz_Metadata_Disc_Sectors.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="389abd81-9255-4054-94af-8bb77802a314" Title="Disclist Class" Url="html/T_MusicBrainz_Metadata_Disclist.htm">
+      <HelpTOCNode Title="Disclist Constructor " Url="html/M_MusicBrainz_Metadata_Disclist__ctor.htm" />
+      <HelpTOCNode Id="a1c6df74-d45b-4343-9b56-54fd6bb3cdca" Title="Disclist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Disclist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Disclist_Count.htm" />
+        <HelpTOCNode Title="Disc Property " Url="html/P_MusicBrainz_Metadata_Disclist_Disc.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Disclist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b74311a5-bb40-4b3d-b4c8-16d473a3ae02" Title="Editinformation Class" Url="html/T_MusicBrainz_Metadata_Editinformation.htm">
+      <HelpTOCNode Title="Editinformation Constructor " Url="html/M_MusicBrainz_Metadata_Editinformation__ctor.htm" />
+      <HelpTOCNode Id="a85c784b-1596-4d94-a871-784c0113361a" Title="Editinformation Properties" Url="html/Properties_T_MusicBrainz_Metadata_Editinformation.htm">
+        <HelpTOCNode Title="Autoeditsaccepted Property " Url="html/P_MusicBrainz_Metadata_Editinformation_Autoeditsaccepted.htm" />
+        <HelpTOCNode Title="Editsaccepted Property " Url="html/P_MusicBrainz_Metadata_Editinformation_Editsaccepted.htm" />
+        <HelpTOCNode Title="Editsfailed Property " Url="html/P_MusicBrainz_Metadata_Editinformation_Editsfailed.htm" />
+        <HelpTOCNode Title="Editsrejected Property " Url="html/P_MusicBrainz_Metadata_Editinformation_Editsrejected.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7ad4bd0a-0085-4aad-a4ac-f9d0280fc253" Title="Editor Class" Url="html/T_MusicBrainz_Metadata_Editor.htm">
+      <HelpTOCNode Title="Editor Constructor " Url="html/M_MusicBrainz_Metadata_Editor__ctor.htm" />
+      <HelpTOCNode Id="5bf5946b-6040-4d1f-9eda-1dadefc2d43d" Title="Editor Properties" Url="html/Properties_T_MusicBrainz_Metadata_Editor.htm">
+        <HelpTOCNode Title="Age Property " Url="html/P_MusicBrainz_Metadata_Editor_Age.htm" />
+        <HelpTOCNode Title="Area Property " Url="html/P_MusicBrainz_Metadata_Editor_Area.htm" />
+        <HelpTOCNode Title="Bio Property " Url="html/P_MusicBrainz_Metadata_Editor_Bio.htm" />
+        <HelpTOCNode Title="Editinformation Property " Url="html/P_MusicBrainz_Metadata_Editor_Editinformation.htm" />
+        <HelpTOCNode Title="Gender Property " Url="html/P_MusicBrainz_Metadata_Editor_Gender.htm" />
+        <HelpTOCNode Title="Homepage Property " Url="html/P_MusicBrainz_Metadata_Editor_Homepage.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Editor_Id.htm" />
+        <HelpTOCNode Title="Languagelist Property " Url="html/P_MusicBrainz_Metadata_Editor_Languagelist.htm" />
+        <HelpTOCNode Title="Membersince Property " Url="html/P_MusicBrainz_Metadata_Editor_Membersince.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Editor_Name.htm" />
+        <HelpTOCNode Title="Privs Property " Url="html/P_MusicBrainz_Metadata_Editor_Privs.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cc3ddb48-ddfd-4b26-ace3-bac04a5993d2" Title="Editorlist Class" Url="html/T_MusicBrainz_Metadata_Editorlist.htm">
+      <HelpTOCNode Title="Editorlist Constructor " Url="html/M_MusicBrainz_Metadata_Editorlist__ctor.htm" />
+      <HelpTOCNode Id="8dbe3cd4-815b-445a-bedf-a2427dec8da0" Title="Editorlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Editorlist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Editorlist_Count.htm" />
+        <HelpTOCNode Title="Editor Property " Url="html/P_MusicBrainz_Metadata_Editorlist_Editor.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Editorlist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Ended Enumeration" Url="html/T_MusicBrainz_Metadata_Ended.htm" />
+    <HelpTOCNode Id="a6d9ad92-697f-4747-a530-ec47f1e8e8ba" Title="Entitylist Class" Url="html/T_MusicBrainz_Metadata_Entitylist.htm">
+      <HelpTOCNode Title="Entitylist Constructor " Url="html/M_MusicBrainz_Metadata_Entitylist__ctor.htm" />
+      <HelpTOCNode Id="4922fc30-163b-40e4-969c-cf9b37622c1e" Title="Entitylist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Entitylist.htm">
+        <HelpTOCNode Title="Area Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Area.htm" />
+        <HelpTOCNode Title="Artist Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Artist.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Count.htm" />
+        <HelpTOCNode Title="Event Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Event.htm" />
+        <HelpTOCNode Title="Instrument Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Instrument.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Label.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Offset.htm" />
+        <HelpTOCNode Title="Place Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Place.htm" />
+        <HelpTOCNode Title="Recording Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Recording.htm" />
+        <HelpTOCNode Title="Release Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Release.htm" />
+        <HelpTOCNode Title="Releasegroup Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Releasegroup.htm" />
+        <HelpTOCNode Title="Series Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Series.htm" />
+        <HelpTOCNode Title="Work Property " Url="html/P_MusicBrainz_Metadata_Entitylist_Work.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="668c1d61-b578-458f-afdf-005d742e4c2f" Title="Event Class" Url="html/T_MusicBrainz_Metadata_Event.htm">
+      <HelpTOCNode Title="Event Constructor " Url="html/M_MusicBrainz_Metadata_Event__ctor.htm" />
+      <HelpTOCNode Id="d31301c4-2267-4ae0-bce2-1305035f8fb3" Title="Event Properties" Url="html/Properties_T_MusicBrainz_Metadata_Event.htm">
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Event_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Event_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Event_ApiStatus.htm" />
+        <HelpTOCNode Title="Cancelled Property " Url="html/P_MusicBrainz_Metadata_Event_Cancelled.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Event_Disambiguation.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Event_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Event_Id.htm" />
+        <HelpTOCNode Title="Lifespan Property " Url="html/P_MusicBrainz_Metadata_Event_Lifespan.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Event_Name.htm" />
+        <HelpTOCNode Title="Rating Property " Url="html/P_MusicBrainz_Metadata_Event_Rating.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Event_Relationlist.htm" />
+        <HelpTOCNode Title="Setlist Property " Url="html/P_MusicBrainz_Metadata_Event_Setlist.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Event_Taglist.htm" />
+        <HelpTOCNode Title="Time Property " Url="html/P_MusicBrainz_Metadata_Event_Time.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Event_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Event_Typeid.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Event_Usergenrelist.htm" />
+        <HelpTOCNode Title="Userrating Property " Url="html/P_MusicBrainz_Metadata_Event_Userrating.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Event_Usertaglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7712e662-2177-4b1a-9b52-105a5a4cc60e" Title="EventLifespan Class" Url="html/T_MusicBrainz_Metadata_EventLifespan.htm">
+      <HelpTOCNode Title="EventLifespan Constructor " Url="html/M_MusicBrainz_Metadata_EventLifespan__ctor.htm" />
+      <HelpTOCNode Id="88d1a22a-df1e-407a-bf3d-64cf0ce2f5ac" Title="EventLifespan Properties" Url="html/Properties_T_MusicBrainz_Metadata_EventLifespan.htm">
+        <HelpTOCNode Title="Begin Property " Url="html/P_MusicBrainz_Metadata_EventLifespan_Begin.htm" />
+        <HelpTOCNode Title="End Property " Url="html/P_MusicBrainz_Metadata_EventLifespan_End.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4043c74a-a838-4941-b315-39ce4ef44b42" Title="Eventlist Class" Url="html/T_MusicBrainz_Metadata_Eventlist.htm">
+      <HelpTOCNode Title="Eventlist Constructor " Url="html/M_MusicBrainz_Metadata_Eventlist__ctor.htm" />
+      <HelpTOCNode Id="87348d9d-8023-4426-9403-5dca6a750cd9" Title="Eventlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Eventlist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Eventlist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Eventlist_Count.htm" />
+        <HelpTOCNode Title="Event Property " Url="html/P_MusicBrainz_Metadata_Eventlist_Event.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Eventlist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="29d73602-5dad-4f5e-9c81-2412dd4dc28e" Title="Format Class" Url="html/T_MusicBrainz_Metadata_Format.htm">
+      <HelpTOCNode Title="Format Constructor " Url="html/M_MusicBrainz_Metadata_Format__ctor.htm" />
+      <HelpTOCNode Id="59121578-a016-47fb-a7dd-6f7f4c365d7f" Title="Format Properties" Url="html/Properties_T_MusicBrainz_Metadata_Format.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Format_Id.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P_MusicBrainz_Metadata_Format_Text.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b7c50d3e-e06a-4150-92d3-9b1f647c31ba" Title="Freedbdisc Class" Url="html/T_MusicBrainz_Metadata_Freedbdisc.htm">
+      <HelpTOCNode Title="Freedbdisc Constructor " Url="html/M_MusicBrainz_Metadata_Freedbdisc__ctor.htm" />
+      <HelpTOCNode Id="11da784a-0ca6-4a5b-8852-ebed03dabe9c" Title="Freedbdisc Properties" Url="html/Properties_T_MusicBrainz_Metadata_Freedbdisc.htm">
+        <HelpTOCNode Title="Artist Property " Url="html/P_MusicBrainz_Metadata_Freedbdisc_Artist.htm" />
+        <HelpTOCNode Title="Category Property " Url="html/P_MusicBrainz_Metadata_Freedbdisc_Category.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Freedbdisc_Id.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_MusicBrainz_Metadata_Freedbdisc_Title.htm" />
+        <HelpTOCNode Title="Tracklist Property " Url="html/P_MusicBrainz_Metadata_Freedbdisc_Tracklist.htm" />
+        <HelpTOCNode Title="Year Property " Url="html/P_MusicBrainz_Metadata_Freedbdisc_Year.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="eee53b6a-1144-430d-9617-e8b10a9d0fe6" Title="Freedbdisclist Class" Url="html/T_MusicBrainz_Metadata_Freedbdisclist.htm">
+      <HelpTOCNode Title="Freedbdisclist Constructor " Url="html/M_MusicBrainz_Metadata_Freedbdisclist__ctor.htm" />
+      <HelpTOCNode Id="02165845-6467-4fa3-8de9-3af6630d984a" Title="Freedbdisclist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Freedbdisclist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Freedbdisclist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Freedbdisclist_Count.htm" />
+        <HelpTOCNode Title="Freedbdisc Property " Url="html/P_MusicBrainz_Metadata_Freedbdisclist_Freedbdisc.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Freedbdisclist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Front Enumeration" Url="html/T_MusicBrainz_Metadata_Front.htm" />
+    <HelpTOCNode Id="c7cc9bf2-98c8-4c97-a265-9bdf29ff7469" Title="Gender Class" Url="html/T_MusicBrainz_Metadata_Gender.htm">
+      <HelpTOCNode Title="Gender Constructor " Url="html/M_MusicBrainz_Metadata_Gender__ctor.htm" />
+      <HelpTOCNode Id="5fda2005-0d90-4e59-a9d1-ade690dce320" Title="Gender Properties" Url="html/Properties_T_MusicBrainz_Metadata_Gender.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Gender_Id.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P_MusicBrainz_Metadata_Gender_Text.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="183b83c9-fdcb-45bd-a59e-ba2d2de7520d" Title="Genre Class" Url="html/T_MusicBrainz_Metadata_Genre.htm">
+      <HelpTOCNode Title="Genre Constructor " Url="html/M_MusicBrainz_Metadata_Genre__ctor.htm" />
+      <HelpTOCNode Id="70497549-0caf-42ac-b971-ef67ad1d6460" Title="Genre Properties" Url="html/Properties_T_MusicBrainz_Metadata_Genre.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Genre_Count.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Genre_Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="edb81bd6-f2ce-4abd-9a35-547c2cd311c5" Title="Genrelist Class" Url="html/T_MusicBrainz_Metadata_Genrelist.htm">
+      <HelpTOCNode Title="Genrelist Constructor " Url="html/M_MusicBrainz_Metadata_Genrelist__ctor.htm" />
+      <HelpTOCNode Id="a92ed5b6-2d41-4875-89f5-8815297cdbe6" Title="Genrelist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Genrelist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Genrelist_Count.htm" />
+        <HelpTOCNode Title="Genre Property " Url="html/P_MusicBrainz_Metadata_Genrelist_Genre.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Genrelist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ecc62b6c-f37c-4115-9993-818bc5bff0fd" Title="Instrument Class" Url="html/T_MusicBrainz_Metadata_Instrument.htm">
+      <HelpTOCNode Title="Instrument Constructor " Url="html/M_MusicBrainz_Metadata_Instrument__ctor.htm" />
+      <HelpTOCNode Id="3a9e4fb4-12be-4d3c-b9c9-34f650067473" Title="Instrument Properties" Url="html/Properties_T_MusicBrainz_Metadata_Instrument.htm">
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Instrument_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Instrument_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Instrument_ApiStatus.htm" />
+        <HelpTOCNode Title="Description Property " Url="html/P_MusicBrainz_Metadata_Instrument_Description.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Instrument_Disambiguation.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Instrument_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Instrument_Id.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Instrument_Name.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Instrument_Relationlist.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Instrument_Taglist.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Instrument_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Instrument_Typeid.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Instrument_Usergenrelist.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Instrument_Usertaglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="389120e5-9eaa-4d1a-95bc-b84a8b884d15" Title="Instrumentlist Class" Url="html/T_MusicBrainz_Metadata_Instrumentlist.htm">
+      <HelpTOCNode Title="Instrumentlist Constructor " Url="html/M_MusicBrainz_Metadata_Instrumentlist__ctor.htm" />
+      <HelpTOCNode Id="93cc04e5-5afb-43b9-9218-96f96fc7d4db" Title="Instrumentlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Instrumentlist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Instrumentlist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Instrumentlist_Count.htm" />
+        <HelpTOCNode Title="Instrument Property " Url="html/P_MusicBrainz_Metadata_Instrumentlist_Instrument.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Instrumentlist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7de39b1e-f845-4a5e-a5b7-7f12d361c403" Title="Ipilist Class" Url="html/T_MusicBrainz_Metadata_Ipilist.htm">
+      <HelpTOCNode Title="Ipilist Constructor " Url="html/M_MusicBrainz_Metadata_Ipilist__ctor.htm" />
+      <HelpTOCNode Id="0b0e122f-098c-4462-b228-d123c596a468" Title="Ipilist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Ipilist.htm">
+        <HelpTOCNode Title="Ipi Property " Url="html/P_MusicBrainz_Metadata_Ipilist_Ipi.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7c0f25ef-9295-4308-9976-e227a4546e2e" Title="Isnilist Class" Url="html/T_MusicBrainz_Metadata_Isnilist.htm">
+      <HelpTOCNode Title="Isnilist Constructor " Url="html/M_MusicBrainz_Metadata_Isnilist__ctor.htm" />
+      <HelpTOCNode Id="e1468f05-aa6d-4792-acd7-d78d424e199c" Title="Isnilist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Isnilist.htm">
+        <HelpTOCNode Title="Isni Property " Url="html/P_MusicBrainz_Metadata_Isnilist_Isni.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="02b549cb-ceb7-47c0-8161-5e3ecdd572f1" Title="Iso31661codelist Class" Url="html/T_MusicBrainz_Metadata_Iso31661codelist.htm">
+      <HelpTOCNode Title="Iso31661codelist Constructor " Url="html/M_MusicBrainz_Metadata_Iso31661codelist__ctor.htm" />
+      <HelpTOCNode Id="42424de7-5a28-45c4-aae3-7d46ca66524f" Title="Iso31661codelist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Iso31661codelist.htm">
+        <HelpTOCNode Title="Iso31661code Property " Url="html/P_MusicBrainz_Metadata_Iso31661codelist_Iso31661code.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="24fc3b0b-5ab7-4cde-b237-98470963a01a" Title="Iso31662codelist Class" Url="html/T_MusicBrainz_Metadata_Iso31662codelist.htm">
+      <HelpTOCNode Title="Iso31662codelist Constructor " Url="html/M_MusicBrainz_Metadata_Iso31662codelist__ctor.htm" />
+      <HelpTOCNode Id="e043fbcc-580b-413c-82d3-f33b99052736" Title="Iso31662codelist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Iso31662codelist.htm">
+        <HelpTOCNode Title="Iso31662code Property " Url="html/P_MusicBrainz_Metadata_Iso31662codelist_Iso31662code.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a87887d2-ef3b-4da1-9616-3eb469aa1fa2" Title="Iso31663codelist Class" Url="html/T_MusicBrainz_Metadata_Iso31663codelist.htm">
+      <HelpTOCNode Title="Iso31663codelist Constructor " Url="html/M_MusicBrainz_Metadata_Iso31663codelist__ctor.htm" />
+      <HelpTOCNode Id="9446dbd6-6522-4248-a732-b4b5a788857e" Title="Iso31663codelist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Iso31663codelist.htm">
+        <HelpTOCNode Title="Iso31663code Property " Url="html/P_MusicBrainz_Metadata_Iso31663codelist_Iso31663code.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ffbebc40-162b-4464-87a5-46998ced0927" Title="Isrc Class" Url="html/T_MusicBrainz_Metadata_Isrc.htm">
+      <HelpTOCNode Title="Isrc Constructor " Url="html/M_MusicBrainz_Metadata_Isrc__ctor.htm" />
+      <HelpTOCNode Id="be46b240-23c5-464c-83f3-d4e847288399" Title="Isrc Properties" Url="html/Properties_T_MusicBrainz_Metadata_Isrc.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Isrc_Id.htm" />
+        <HelpTOCNode Title="Recordinglist Property " Url="html/P_MusicBrainz_Metadata_Isrc_Recordinglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="69e97905-81fb-4f06-bc2c-da097cbb0905" Title="Isrclist Class" Url="html/T_MusicBrainz_Metadata_Isrclist.htm">
+      <HelpTOCNode Title="Isrclist Constructor " Url="html/M_MusicBrainz_Metadata_Isrclist__ctor.htm" />
+      <HelpTOCNode Id="847ae4ca-538b-4587-9e7a-32d5d39ef506" Title="Isrclist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Isrclist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Isrclist_Count.htm" />
+        <HelpTOCNode Title="Isrc Property " Url="html/P_MusicBrainz_Metadata_Isrclist_Isrc.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Isrclist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e5d38762-4a90-4681-a3bf-28175a57a936" Title="Iswclist Class" Url="html/T_MusicBrainz_Metadata_Iswclist.htm">
+      <HelpTOCNode Title="Iswclist Constructor " Url="html/M_MusicBrainz_Metadata_Iswclist__ctor.htm" />
+      <HelpTOCNode Id="36dcb662-aa4f-4bd3-96f9-6667d5161132" Title="Iswclist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Iswclist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Iswclist_Count.htm" />
+        <HelpTOCNode Title="Iswc Property " Url="html/P_MusicBrainz_Metadata_Iswclist_Iswc.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Iswclist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c623462c-3371-462c-bb6c-ebeaadbcd830" Title="Label Class" Url="html/T_MusicBrainz_Metadata_Label.htm">
+      <HelpTOCNode Title="Label Constructor " Url="html/M_MusicBrainz_Metadata_Label__ctor.htm" />
+      <HelpTOCNode Id="fad1a2ec-866a-499a-88aa-b4734dd46d2b" Title="Label Properties" Url="html/Properties_T_MusicBrainz_Metadata_Label.htm">
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Label_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Label_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Label_ApiStatus.htm" />
+        <HelpTOCNode Title="Area Property " Url="html/P_MusicBrainz_Metadata_Label_Area.htm" />
+        <HelpTOCNode Title="Country Property " Url="html/P_MusicBrainz_Metadata_Label_Country.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Label_Disambiguation.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Label_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Label_Id.htm" />
+        <HelpTOCNode Title="Ipi Property " Url="html/P_MusicBrainz_Metadata_Label_Ipi.htm" />
+        <HelpTOCNode Title="Ipilist Property " Url="html/P_MusicBrainz_Metadata_Label_Ipilist.htm" />
+        <HelpTOCNode Title="Isnilist Property " Url="html/P_MusicBrainz_Metadata_Label_Isnilist.htm" />
+        <HelpTOCNode Title="Labelcode Property " Url="html/P_MusicBrainz_Metadata_Label_Labelcode.htm" />
+        <HelpTOCNode Title="Lifespan Property " Url="html/P_MusicBrainz_Metadata_Label_Lifespan.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Label_Name.htm" />
+        <HelpTOCNode Title="Rating Property " Url="html/P_MusicBrainz_Metadata_Label_Rating.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Label_Relationlist.htm" />
+        <HelpTOCNode Title="Releaselist Property " Url="html/P_MusicBrainz_Metadata_Label_Releaselist.htm" />
+        <HelpTOCNode Title="Sortname Property " Url="html/P_MusicBrainz_Metadata_Label_Sortname.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Label_Taglist.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Label_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Label_Typeid.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Label_Usergenrelist.htm" />
+        <HelpTOCNode Title="Userrating Property " Url="html/P_MusicBrainz_Metadata_Label_Userrating.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Label_Usertaglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="68294d78-8726-4d6e-85e6-720c7ddc753b" Title="Labelinfo Class" Url="html/T_MusicBrainz_Metadata_Labelinfo.htm">
+      <HelpTOCNode Title="Labelinfo Constructor " Url="html/M_MusicBrainz_Metadata_Labelinfo__ctor.htm" />
+      <HelpTOCNode Id="e91ec18d-0ed9-4b08-80c4-d4ca6fe07dc2" Title="Labelinfo Properties" Url="html/Properties_T_MusicBrainz_Metadata_Labelinfo.htm">
+        <HelpTOCNode Title="Catalognumber Property " Url="html/P_MusicBrainz_Metadata_Labelinfo_Catalognumber.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P_MusicBrainz_Metadata_Labelinfo_Label.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2cdfc34e-6a05-4592-a0a1-09bdbab1231a" Title="Labelinfolist Class" Url="html/T_MusicBrainz_Metadata_Labelinfolist.htm">
+      <HelpTOCNode Title="Labelinfolist Constructor " Url="html/M_MusicBrainz_Metadata_Labelinfolist__ctor.htm" />
+      <HelpTOCNode Id="e82dd62e-a6d0-49bc-819e-f76b46f82372" Title="Labelinfolist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Labelinfolist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Labelinfolist_Count.htm" />
+        <HelpTOCNode Title="Labelinfo Property " Url="html/P_MusicBrainz_Metadata_Labelinfolist_Labelinfo.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Labelinfolist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="735467b9-4eda-4158-bcaf-1580d374dad6" Title="Labellist Class" Url="html/T_MusicBrainz_Metadata_Labellist.htm">
+      <HelpTOCNode Title="Labellist Constructor " Url="html/M_MusicBrainz_Metadata_Labellist__ctor.htm" />
+      <HelpTOCNode Id="ac288369-f6ed-4c78-a867-4906de2b8a7e" Title="Labellist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Labellist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Labellist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Labellist_Count.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P_MusicBrainz_Metadata_Labellist_Label.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Labellist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="da0812f5-690b-4096-8a26-4d8f8dc27a41" Title="Languagelist Class" Url="html/T_MusicBrainz_Metadata_Languagelist.htm">
+      <HelpTOCNode Title="Languagelist Constructor " Url="html/M_MusicBrainz_Metadata_Languagelist__ctor.htm" />
+      <HelpTOCNode Id="e86e4e62-cdeb-46be-9200-4214e8888f80" Title="Languagelist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Languagelist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Languagelist_Count.htm" />
+        <HelpTOCNode Title="Language Property " Url="html/P_MusicBrainz_Metadata_Languagelist_Language.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Languagelist_Offset.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1bebc9c4-1d56-4c5f-af1b-10228e661ccc" Title="LanguagelistLanguage Class" Url="html/T_MusicBrainz_Metadata_LanguagelistLanguage.htm">
+      <HelpTOCNode Title="LanguagelistLanguage Constructor " Url="html/M_MusicBrainz_Metadata_LanguagelistLanguage__ctor.htm" />
+      <HelpTOCNode Id="b702b972-097d-4d29-bd2d-45a3be0d80bd" Title="LanguagelistLanguage Properties" Url="html/Properties_T_MusicBrainz_Metadata_LanguagelistLanguage.htm">
+        <HelpTOCNode Title="Fluency Property " Url="html/P_MusicBrainz_Metadata_LanguagelistLanguage_Fluency.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P_MusicBrainz_Metadata_LanguagelistLanguage_Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="LanguagelistLanguageFluency Enumeration" Url="html/T_MusicBrainz_Metadata_LanguagelistLanguageFluency.htm" />
+    <HelpTOCNode Id="3a29a981-8a9f-46d6-8e25-60b2ea8ae35b" Title="Lifespan Class" Url="html/T_MusicBrainz_Metadata_Lifespan.htm">
+      <HelpTOCNode Title="Lifespan Constructor " Url="html/M_MusicBrainz_Metadata_Lifespan__ctor.htm" />
+      <HelpTOCNode Id="322bd296-7b89-4fe6-9ff1-181c2fe191d8" Title="Lifespan Properties" Url="html/Properties_T_MusicBrainz_Metadata_Lifespan.htm">
+        <HelpTOCNode Title="Begin Property " Url="html/P_MusicBrainz_Metadata_Lifespan_Begin.htm" />
+        <HelpTOCNode Title="End Property " Url="html/P_MusicBrainz_Metadata_Lifespan_End.htm" />
+        <HelpTOCNode Title="Ended Property " Url="html/P_MusicBrainz_Metadata_Lifespan_Ended.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b43bf2c7-b7b9-480a-a21b-56de460dfda8" Title="Medium Class" Url="html/T_MusicBrainz_Metadata_Medium.htm">
+      <HelpTOCNode Title="Medium Constructor " Url="html/M_MusicBrainz_Metadata_Medium__ctor.htm" />
+      <HelpTOCNode Id="083ff45a-1d25-4f04-8215-9df6cf0db6d5" Title="Medium Properties" Url="html/Properties_T_MusicBrainz_Metadata_Medium.htm">
+        <HelpTOCNode Title="Datatracklist Property " Url="html/P_MusicBrainz_Metadata_Medium_Datatracklist.htm" />
+        <HelpTOCNode Title="Disclist Property " Url="html/P_MusicBrainz_Metadata_Medium_Disclist.htm" />
+        <HelpTOCNode Title="Format Property " Url="html/P_MusicBrainz_Metadata_Medium_Format.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/P_MusicBrainz_Metadata_Medium_Position.htm" />
+        <HelpTOCNode Title="Pregap Property " Url="html/P_MusicBrainz_Metadata_Medium_Pregap.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_MusicBrainz_Metadata_Medium_Title.htm" />
+        <HelpTOCNode Title="Tracklist Property " Url="html/P_MusicBrainz_Metadata_Medium_Tracklist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9364e3c3-8740-4525-97c9-ccde42e0c7e0" Title="Mediumlist Class" Url="html/T_MusicBrainz_Metadata_Mediumlist.htm">
+      <HelpTOCNode Title="Mediumlist Constructor " Url="html/M_MusicBrainz_Metadata_Mediumlist__ctor.htm" />
+      <HelpTOCNode Id="43ea06c5-2387-44b2-8bd0-bddd23784204" Title="Mediumlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Mediumlist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Mediumlist_Count.htm" />
+        <HelpTOCNode Title="Medium Property " Url="html/P_MusicBrainz_Metadata_Mediumlist_Medium.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Mediumlist_Offset.htm" />
+        <HelpTOCNode Title="Trackcount Property " Url="html/P_MusicBrainz_Metadata_Mediumlist_Trackcount.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="27ededdb-33bc-4dae-9153-b97e05ff03af" Title="MediumTracklist Class" Url="html/T_MusicBrainz_Metadata_MediumTracklist.htm">
+      <HelpTOCNode Title="MediumTracklist Constructor " Url="html/M_MusicBrainz_Metadata_MediumTracklist__ctor.htm" />
+      <HelpTOCNode Id="688877f8-d2ec-4ba7-88c2-7b6319ed4bca" Title="MediumTracklist Properties" Url="html/Properties_T_MusicBrainz_Metadata_MediumTracklist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_MediumTracklist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_MediumTracklist_Offset.htm" />
+        <HelpTOCNode Title="Track Property " Url="html/P_MusicBrainz_Metadata_MediumTracklist_Track.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c9fde3ec-058c-4b77-a690-305c170f0653" Title="Metadata Class" Url="html/T_MusicBrainz_Metadata_Metadata.htm">
+      <HelpTOCNode Title="Metadata Constructor " Url="html/M_MusicBrainz_Metadata_Metadata__ctor.htm" />
+      <HelpTOCNode Id="ffa2dcd9-32c5-407b-984a-4a10557c2ea2" Title="Metadata Properties" Url="html/Properties_T_MusicBrainz_Metadata_Metadata.htm">
+        <HelpTOCNode Title="Annotationlist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Annotationlist.htm" />
+        <HelpTOCNode Title="Area Property " Url="html/P_MusicBrainz_Metadata_Metadata_Area.htm" />
+        <HelpTOCNode Title="Arealist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Arealist.htm" />
+        <HelpTOCNode Title="Artist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Artist.htm" />
+        <HelpTOCNode Title="Artistlist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Artistlist.htm" />
+        <HelpTOCNode Title="Cdstublist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Cdstublist.htm" />
+        <HelpTOCNode Title="Collection Property " Url="html/P_MusicBrainz_Metadata_Metadata_Collection.htm" />
+        <HelpTOCNode Title="Collectionlist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Collectionlist.htm" />
+        <HelpTOCNode Title="Created Property " Url="html/P_MusicBrainz_Metadata_Metadata_Created.htm" />
+        <HelpTOCNode Title="Disc Property " Url="html/P_MusicBrainz_Metadata_Metadata_Disc.htm" />
+        <HelpTOCNode Title="Editor Property " Url="html/P_MusicBrainz_Metadata_Metadata_Editor.htm" />
+        <HelpTOCNode Title="Editorlist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Editorlist.htm" />
+        <HelpTOCNode Title="Entitylist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Entitylist.htm" />
+        <HelpTOCNode Title="Event Property " Url="html/P_MusicBrainz_Metadata_Metadata_Event.htm" />
+        <HelpTOCNode Title="Eventlist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Eventlist.htm" />
+        <HelpTOCNode Title="Freedbdisclist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Freedbdisclist.htm" />
+        <HelpTOCNode Title="Generator Property " Url="html/P_MusicBrainz_Metadata_Metadata_Generator.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Genrelist.htm" />
+        <HelpTOCNode Title="Instrument Property " Url="html/P_MusicBrainz_Metadata_Metadata_Instrument.htm" />
+        <HelpTOCNode Title="Instrumentlist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Instrumentlist.htm" />
+        <HelpTOCNode Title="Isrc Property " Url="html/P_MusicBrainz_Metadata_Metadata_Isrc.htm" />
+        <HelpTOCNode Title="Isrclist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Isrclist.htm" />
+        <HelpTOCNode Title="Label Property " Url="html/P_MusicBrainz_Metadata_Metadata_Label.htm" />
+        <HelpTOCNode Title="Labellist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Labellist.htm" />
+        <HelpTOCNode Title="Place Property " Url="html/P_MusicBrainz_Metadata_Metadata_Place.htm" />
+        <HelpTOCNode Title="Placelist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Placelist.htm" />
+        <HelpTOCNode Title="Puid Property " Url="html/P_MusicBrainz_Metadata_Metadata_Puid.htm" />
+        <HelpTOCNode Title="Rating Property " Url="html/P_MusicBrainz_Metadata_Metadata_Rating.htm" />
+        <HelpTOCNode Title="Recording Property " Url="html/P_MusicBrainz_Metadata_Metadata_Recording.htm" />
+        <HelpTOCNode Title="Recordinglist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Recordinglist.htm" />
+        <HelpTOCNode Title="Release Property " Url="html/P_MusicBrainz_Metadata_Metadata_Release.htm" />
+        <HelpTOCNode Title="Releasegroup Property " Url="html/P_MusicBrainz_Metadata_Metadata_Releasegroup.htm" />
+        <HelpTOCNode Title="Releasegrouplist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Releasegrouplist.htm" />
+        <HelpTOCNode Title="Releaselist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Releaselist.htm" />
+        <HelpTOCNode Title="Series Property " Url="html/P_MusicBrainz_Metadata_Metadata_Series.htm" />
+        <HelpTOCNode Title="Serieslist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Serieslist.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Taglist.htm" />
+        <HelpTOCNode Title="Url Property " Url="html/P_MusicBrainz_Metadata_Metadata_Url.htm" />
+        <HelpTOCNode Title="Urllist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Urllist.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Usergenrelist.htm" />
+        <HelpTOCNode Title="Userrating Property " Url="html/P_MusicBrainz_Metadata_Metadata_Userrating.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Usertaglist.htm" />
+        <HelpTOCNode Title="Work Property " Url="html/P_MusicBrainz_Metadata_Metadata_Work.htm" />
+        <HelpTOCNode Title="Worklist Property " Url="html/P_MusicBrainz_Metadata_Metadata_Worklist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bce72ec1-a0e0-4f99-8a2d-81c180f1b3e0" Title="Namecredit Class" Url="html/T_MusicBrainz_Metadata_Namecredit.htm">
+      <HelpTOCNode Title="Namecredit Constructor " Url="html/M_MusicBrainz_Metadata_Namecredit__ctor.htm" />
+      <HelpTOCNode Id="cc091450-a10c-49b2-b5a0-a35bfaf4c54b" Title="Namecredit Properties" Url="html/Properties_T_MusicBrainz_Metadata_Namecredit.htm">
+        <HelpTOCNode Title="Artist Property " Url="html/P_MusicBrainz_Metadata_Namecredit_Artist.htm" />
+        <HelpTOCNode Title="Joinphrase Property " Url="html/P_MusicBrainz_Metadata_Namecredit_Joinphrase.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Namecredit_Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="88278987-d85c-452e-8d9a-28ee7bbd1959" Title="Offset Class" Url="html/T_MusicBrainz_Metadata_Offset.htm">
+      <HelpTOCNode Title="Offset Constructor " Url="html/M_MusicBrainz_Metadata_Offset__ctor.htm" />
+      <HelpTOCNode Id="9d659d6c-fb48-4ea0-8600-b91c81513bfa" Title="Offset Properties" Url="html/Properties_T_MusicBrainz_Metadata_Offset.htm">
+        <HelpTOCNode Title="Position Property " Url="html/P_MusicBrainz_Metadata_Offset_Position.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P_MusicBrainz_Metadata_Offset_Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cf4590f9-5d1c-4f2c-8ece-309591d82e60" Title="Offsetlist Class" Url="html/T_MusicBrainz_Metadata_Offsetlist.htm">
+      <HelpTOCNode Title="Offsetlist Constructor " Url="html/M_MusicBrainz_Metadata_Offsetlist__ctor.htm" />
+      <HelpTOCNode Id="5eb543ed-dc25-4794-8750-0de61a24a3fc" Title="Offsetlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Offsetlist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Offsetlist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Offsetlist_Offset.htm" />
+        <HelpTOCNode Title="Offset1 Property " Url="html/P_MusicBrainz_Metadata_Offsetlist_Offset1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="26ea46a4-fff4-4b0b-90dd-a800e4d09980" Title="Place Class" Url="html/T_MusicBrainz_Metadata_Place.htm">
+      <HelpTOCNode Title="Place Constructor " Url="html/M_MusicBrainz_Metadata_Place__ctor.htm" />
+      <HelpTOCNode Id="9c287ad8-ec77-4b61-af2d-9f6e963befca" Title="Place Properties" Url="html/Properties_T_MusicBrainz_Metadata_Place.htm">
+        <HelpTOCNode Title="Address Property " Url="html/P_MusicBrainz_Metadata_Place_Address.htm" />
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Place_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Place_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Place_ApiStatus.htm" />
+        <HelpTOCNode Title="Area Property " Url="html/P_MusicBrainz_Metadata_Place_Area.htm" />
+        <HelpTOCNode Title="Coordinates Property " Url="html/P_MusicBrainz_Metadata_Place_Coordinates.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Place_Disambiguation.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Place_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Place_Id.htm" />
+        <HelpTOCNode Title="Lifespan Property " Url="html/P_MusicBrainz_Metadata_Place_Lifespan.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Place_Name.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Place_Relationlist.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Place_Taglist.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Place_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Place_Typeid.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Place_Usergenrelist.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Place_Usertaglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7bc71731-114d-49bd-8586-29810585599b" Title="Placelist Class" Url="html/T_MusicBrainz_Metadata_Placelist.htm">
+      <HelpTOCNode Title="Placelist Constructor " Url="html/M_MusicBrainz_Metadata_Placelist__ctor.htm" />
+      <HelpTOCNode Id="5ec1e4f4-7e09-4f96-8a1c-383127187cc7" Title="Placelist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Placelist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Placelist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Placelist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Placelist_Offset.htm" />
+        <HelpTOCNode Title="Place Property " Url="html/P_MusicBrainz_Metadata_Placelist_Place.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="82c8f352-6e2d-42c3-a5c8-c4462528fa97" Title="Primarytype Class" Url="html/T_MusicBrainz_Metadata_Primarytype.htm">
+      <HelpTOCNode Title="Primarytype Constructor " Url="html/M_MusicBrainz_Metadata_Primarytype__ctor.htm" />
+      <HelpTOCNode Id="7d69f471-221f-405d-a4a1-cf1759814bee" Title="Primarytype Properties" Url="html/Properties_T_MusicBrainz_Metadata_Primarytype.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Primarytype_Id.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P_MusicBrainz_Metadata_Primarytype_Text.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5eecd281-e924-4b04-9224-f5107df67b75" Title="Puid Class" Url="html/T_MusicBrainz_Metadata_Puid.htm">
+      <HelpTOCNode Title="Puid Constructor " Url="html/M_MusicBrainz_Metadata_Puid__ctor.htm" />
+      <HelpTOCNode Id="90b7c826-65a7-42fd-9a62-668a7ca54ec4" Title="Puid Properties" Url="html/Properties_T_MusicBrainz_Metadata_Puid.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Puid_Id.htm" />
+        <HelpTOCNode Title="Recordinglist Property " Url="html/P_MusicBrainz_Metadata_Puid_Recordinglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="43527ded-4350-4664-89a4-855e37cd12f7" Title="Puidlist Class" Url="html/T_MusicBrainz_Metadata_Puidlist.htm">
+      <HelpTOCNode Title="Puidlist Constructor " Url="html/M_MusicBrainz_Metadata_Puidlist__ctor.htm" />
+      <HelpTOCNode Id="4fe9341f-1217-412a-994f-7ed339252569" Title="Puidlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Puidlist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Puidlist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Puidlist_Offset.htm" />
+        <HelpTOCNode Title="Puid Property " Url="html/P_MusicBrainz_Metadata_Puidlist_Puid.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Quality Enumeration" Url="html/T_MusicBrainz_Metadata_Quality.htm" />
+    <HelpTOCNode Id="3925f57b-3ad3-4e74-82a0-ae627761fdd6" Title="Rating Class" Url="html/T_MusicBrainz_Metadata_Rating.htm">
+      <HelpTOCNode Title="Rating Constructor " Url="html/M_MusicBrainz_Metadata_Rating__ctor.htm" />
+      <HelpTOCNode Id="c592581d-7201-4335-b8c5-0f2dc33ca6a2" Title="Rating Properties" Url="html/Properties_T_MusicBrainz_Metadata_Rating.htm">
+        <HelpTOCNode Title="Value Property " Url="html/P_MusicBrainz_Metadata_Rating_Value.htm" />
+        <HelpTOCNode Title="Votescount Property " Url="html/P_MusicBrainz_Metadata_Rating_Votescount.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fdcfcaa0-53cc-4b36-bc32-11ad8b526885" Title="Recording Class" Url="html/T_MusicBrainz_Metadata_Recording.htm">
+      <HelpTOCNode Title="Recording Constructor " Url="html/M_MusicBrainz_Metadata_Recording__ctor.htm" />
+      <HelpTOCNode Id="0965bdb4-b43c-4b03-b2ed-20572b8ba6f1" Title="Recording Properties" Url="html/Properties_T_MusicBrainz_Metadata_Recording.htm">
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Recording_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Recording_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Recording_ApiStatus.htm" />
+        <HelpTOCNode Title="Artistcredit Property " Url="html/P_MusicBrainz_Metadata_Recording_Artistcredit.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Recording_Disambiguation.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Recording_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Recording_Id.htm" />
+        <HelpTOCNode Title="Isrclist Property " Url="html/P_MusicBrainz_Metadata_Recording_Isrclist.htm" />
+        <HelpTOCNode Title="Length Property " Url="html/P_MusicBrainz_Metadata_Recording_Length.htm" />
+        <HelpTOCNode Title="Puidlist Property " Url="html/P_MusicBrainz_Metadata_Recording_Puidlist.htm" />
+        <HelpTOCNode Title="Rating Property " Url="html/P_MusicBrainz_Metadata_Recording_Rating.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Recording_Relationlist.htm" />
+        <HelpTOCNode Title="Releaselist Property " Url="html/P_MusicBrainz_Metadata_Recording_Releaselist.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Recording_Taglist.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_MusicBrainz_Metadata_Recording_Title.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Recording_Usergenrelist.htm" />
+        <HelpTOCNode Title="Userrating Property " Url="html/P_MusicBrainz_Metadata_Recording_Userrating.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Recording_Usertaglist.htm" />
+        <HelpTOCNode Title="Video Property " Url="html/P_MusicBrainz_Metadata_Recording_Video.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cd236843-4903-4179-9287-9c857e7836f2" Title="Recordinglist Class" Url="html/T_MusicBrainz_Metadata_Recordinglist.htm">
+      <HelpTOCNode Title="Recordinglist Constructor " Url="html/M_MusicBrainz_Metadata_Recordinglist__ctor.htm" />
+      <HelpTOCNode Id="1202d9e9-5aa9-4ea1-9f7d-a25c36195d40" Title="Recordinglist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Recordinglist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Recordinglist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Recordinglist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Recordinglist_Offset.htm" />
+        <HelpTOCNode Title="Recording Property " Url="html/P_MusicBrainz_Metadata_Recordinglist_Recording.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="16b4c24d-5a07-4402-a3c6-2296fe6d724f" Title="Relation Class" Url="html/T_MusicBrainz_Metadata_Relation.htm">
+      <HelpTOCNode Title="Relation Constructor " Url="html/M_MusicBrainz_Metadata_Relation__ctor.htm" />
+      <HelpTOCNode Id="4657099f-b6db-44da-8445-43195bffd589" Title="Relation Properties" Url="html/Properties_T_MusicBrainz_Metadata_Relation.htm">
+        <HelpTOCNode Title="Attributelist Property " Url="html/P_MusicBrainz_Metadata_Relation_Attributelist.htm" />
+        <HelpTOCNode Title="Begin Property " Url="html/P_MusicBrainz_Metadata_Relation_Begin.htm" />
+        <HelpTOCNode Title="Direction Property " Url="html/P_MusicBrainz_Metadata_Relation_Direction.htm" />
+        <HelpTOCNode Title="End Property " Url="html/P_MusicBrainz_Metadata_Relation_End.htm" />
+        <HelpTOCNode Title="Ended Property " Url="html/P_MusicBrainz_Metadata_Relation_Ended.htm" />
+        <HelpTOCNode Title="Item Property " Url="html/P_MusicBrainz_Metadata_Relation_Item.htm" />
+        <HelpTOCNode Title="Orderingkey Property " Url="html/P_MusicBrainz_Metadata_Relation_Orderingkey.htm" />
+        <HelpTOCNode Title="Sourcecredit Property " Url="html/P_MusicBrainz_Metadata_Relation_Sourcecredit.htm" />
+        <HelpTOCNode Title="Target Property " Url="html/P_MusicBrainz_Metadata_Relation_Target.htm" />
+        <HelpTOCNode Title="Targetcredit Property " Url="html/P_MusicBrainz_Metadata_Relation_Targetcredit.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Relation_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Relation_Typeid.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5672ae61-a564-44d0-b0e1-a811b2799875" Title="RelationAttribute Class" Url="html/T_MusicBrainz_Metadata_RelationAttribute.htm">
+      <HelpTOCNode Title="RelationAttribute Constructor " Url="html/M_MusicBrainz_Metadata_RelationAttribute__ctor.htm" />
+      <HelpTOCNode Id="a1161e3d-7267-4b42-8ced-74ea62ab475b" Title="RelationAttribute Properties" Url="html/Properties_T_MusicBrainz_Metadata_RelationAttribute.htm">
+        <HelpTOCNode Title="Creditedas Property " Url="html/P_MusicBrainz_Metadata_RelationAttribute_Creditedas.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P_MusicBrainz_Metadata_RelationAttribute_Text.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P_MusicBrainz_Metadata_RelationAttribute_Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f005c40d-a2a7-4c53-aa61-66b19d95c72f" Title="Relationlist Class" Url="html/T_MusicBrainz_Metadata_Relationlist.htm">
+      <HelpTOCNode Title="Relationlist Constructor " Url="html/M_MusicBrainz_Metadata_Relationlist__ctor.htm" />
+      <HelpTOCNode Id="d304b9b6-0c7f-44d5-b1a9-d6146eaa52d1" Title="Relationlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Relationlist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Relationlist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Relationlist_Offset.htm" />
+        <HelpTOCNode Title="Relation Property " Url="html/P_MusicBrainz_Metadata_Relationlist_Relation.htm" />
+        <HelpTOCNode Title="Targettype Property " Url="html/P_MusicBrainz_Metadata_Relationlist_Targettype.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="78939fbb-e934-43cd-8055-667f7739ebfa" Title="Release Class" Url="html/T_MusicBrainz_Metadata_Release.htm">
+      <HelpTOCNode Title="Release Constructor " Url="html/M_MusicBrainz_Metadata_Release__ctor.htm" />
+      <HelpTOCNode Id="502919c9-aa72-4519-ac73-e820a0d5d4e4" Title="Release Properties" Url="html/Properties_T_MusicBrainz_Metadata_Release.htm">
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Release_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Release_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Release_ApiStatus.htm" />
+        <HelpTOCNode Title="Artistcredit Property " Url="html/P_MusicBrainz_Metadata_Release_Artistcredit.htm" />
+        <HelpTOCNode Title="Asin Property " Url="html/P_MusicBrainz_Metadata_Release_Asin.htm" />
+        <HelpTOCNode Title="Barcode Property " Url="html/P_MusicBrainz_Metadata_Release_Barcode.htm" />
+        <HelpTOCNode Title="Collectionlist Property " Url="html/P_MusicBrainz_Metadata_Release_Collectionlist.htm" />
+        <HelpTOCNode Title="Country Property " Url="html/P_MusicBrainz_Metadata_Release_Country.htm" />
+        <HelpTOCNode Title="Coverartarchive Property " Url="html/P_MusicBrainz_Metadata_Release_Coverartarchive.htm" />
+        <HelpTOCNode Title="Date Property " Url="html/P_MusicBrainz_Metadata_Release_Date.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Release_Disambiguation.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Release_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Release_Id.htm" />
+        <HelpTOCNode Title="Labelinfolist Property " Url="html/P_MusicBrainz_Metadata_Release_Labelinfolist.htm" />
+        <HelpTOCNode Title="Mediumlist Property " Url="html/P_MusicBrainz_Metadata_Release_Mediumlist.htm" />
+        <HelpTOCNode Title="Packaging Property " Url="html/P_MusicBrainz_Metadata_Release_Packaging.htm" />
+        <HelpTOCNode Title="Quality Property " Url="html/P_MusicBrainz_Metadata_Release_Quality.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Release_Relationlist.htm" />
+        <HelpTOCNode Title="Releaseeventlist Property " Url="html/P_MusicBrainz_Metadata_Release_Releaseeventlist.htm" />
+        <HelpTOCNode Title="Releasegroup Property " Url="html/P_MusicBrainz_Metadata_Release_Releasegroup.htm" />
+        <HelpTOCNode Title="Status Property " Url="html/P_MusicBrainz_Metadata_Release_Status.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Release_Taglist.htm" />
+        <HelpTOCNode Title="Textrepresentation Property " Url="html/P_MusicBrainz_Metadata_Release_Textrepresentation.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_MusicBrainz_Metadata_Release_Title.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Release_Usergenrelist.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Release_Usertaglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e91ebd44-be73-4e5c-8f08-06fd91503729" Title="Releaseevent Class" Url="html/T_MusicBrainz_Metadata_Releaseevent.htm">
+      <HelpTOCNode Title="Releaseevent Constructor " Url="html/M_MusicBrainz_Metadata_Releaseevent__ctor.htm" />
+      <HelpTOCNode Id="51cc2e95-854f-4b8e-ad1e-58e955e09441" Title="Releaseevent Properties" Url="html/Properties_T_MusicBrainz_Metadata_Releaseevent.htm">
+        <HelpTOCNode Title="Area Property " Url="html/P_MusicBrainz_Metadata_Releaseevent_Area.htm" />
+        <HelpTOCNode Title="Date Property " Url="html/P_MusicBrainz_Metadata_Releaseevent_Date.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c11d3233-2afc-4d87-83ca-5ddd4442de85" Title="Releaseeventlist Class" Url="html/T_MusicBrainz_Metadata_Releaseeventlist.htm">
+      <HelpTOCNode Title="Releaseeventlist Constructor " Url="html/M_MusicBrainz_Metadata_Releaseeventlist__ctor.htm" />
+      <HelpTOCNode Id="a65be887-75b6-4ddb-967b-b1cf5c86328e" Title="Releaseeventlist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Releaseeventlist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Releaseeventlist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Releaseeventlist_Offset.htm" />
+        <HelpTOCNode Title="Releaseevent Property " Url="html/P_MusicBrainz_Metadata_Releaseeventlist_Releaseevent.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1c983122-f15b-4761-8c39-97fa94fa3d72" Title="Releasegroup Class" Url="html/T_MusicBrainz_Metadata_Releasegroup.htm">
+      <HelpTOCNode Title="Releasegroup Constructor " Url="html/M_MusicBrainz_Metadata_Releasegroup__ctor.htm" />
+      <HelpTOCNode Id="7e700ddf-04bb-4ada-8874-07e363a7a113" Title="Releasegroup Properties" Url="html/Properties_T_MusicBrainz_Metadata_Releasegroup.htm">
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_ApiStatus.htm" />
+        <HelpTOCNode Title="Artistcredit Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Artistcredit.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Disambiguation.htm" />
+        <HelpTOCNode Title="Firstreleasedate Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Firstreleasedate.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Id.htm" />
+        <HelpTOCNode Title="Primarytype Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Primarytype.htm" />
+        <HelpTOCNode Title="Rating Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Rating.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Relationlist.htm" />
+        <HelpTOCNode Title="Releaselist Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Releaselist.htm" />
+        <HelpTOCNode Title="Secondarytypelist Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Secondarytypelist.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Taglist.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Title.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Typeid.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Usergenrelist.htm" />
+        <HelpTOCNode Title="Userrating Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Userrating.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Releasegroup_Usertaglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e7612735-745e-4cb4-99cc-d97e5eb0c8f3" Title="Releasegrouplist Class" Url="html/T_MusicBrainz_Metadata_Releasegrouplist.htm">
+      <HelpTOCNode Title="Releasegrouplist Constructor " Url="html/M_MusicBrainz_Metadata_Releasegrouplist__ctor.htm" />
+      <HelpTOCNode Id="c88573b7-b86a-46c8-8553-82e80cbbb119" Title="Releasegrouplist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Releasegrouplist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Releasegrouplist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Releasegrouplist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Releasegrouplist_Offset.htm" />
+        <HelpTOCNode Title="Releasegroup Property " Url="html/P_MusicBrainz_Metadata_Releasegrouplist_Releasegroup.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bb43d0ad-c4d1-408b-bf03-4a7d375601cd" Title="Releaselist Class" Url="html/T_MusicBrainz_Metadata_Releaselist.htm">
+      <HelpTOCNode Title="Releaselist Constructor " Url="html/M_MusicBrainz_Metadata_Releaselist__ctor.htm" />
+      <HelpTOCNode Id="ac5b22f9-14d0-4cd1-93d8-2a9d38a77692" Title="Releaselist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Releaselist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Releaselist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Releaselist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Releaselist_Offset.htm" />
+        <HelpTOCNode Title="Release Property " Url="html/P_MusicBrainz_Metadata_Releaselist_Release.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8f701243-3c15-4cd0-894d-f4c740bf2078" Title="Secondarytype Class" Url="html/T_MusicBrainz_Metadata_Secondarytype.htm">
+      <HelpTOCNode Title="Secondarytype Constructor " Url="html/M_MusicBrainz_Metadata_Secondarytype__ctor.htm" />
+      <HelpTOCNode Id="844c9479-9ef2-4617-9adf-1f2f5c8405db" Title="Secondarytype Properties" Url="html/Properties_T_MusicBrainz_Metadata_Secondarytype.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Secondarytype_Id.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P_MusicBrainz_Metadata_Secondarytype_Text.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="69a46dfb-df63-4741-b399-dc932175a54e" Title="Secondarytypelist Class" Url="html/T_MusicBrainz_Metadata_Secondarytypelist.htm">
+      <HelpTOCNode Title="Secondarytypelist Constructor " Url="html/M_MusicBrainz_Metadata_Secondarytypelist__ctor.htm" />
+      <HelpTOCNode Id="0f6b3975-3144-434c-9e2d-53b420e93724" Title="Secondarytypelist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Secondarytypelist.htm">
+        <HelpTOCNode Title="Secondarytype Property " Url="html/P_MusicBrainz_Metadata_Secondarytypelist_Secondarytype.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7d9914aa-33a5-4ed7-ae20-ec17b9f74acd" Title="Series Class" Url="html/T_MusicBrainz_Metadata_Series.htm">
+      <HelpTOCNode Title="Series Constructor " Url="html/M_MusicBrainz_Metadata_Series__ctor.htm" />
+      <HelpTOCNode Id="5f1b4d61-c1bb-4e85-a58c-90db56828546" Title="Series Properties" Url="html/Properties_T_MusicBrainz_Metadata_Series.htm">
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Series_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Series_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Series_ApiStatus.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Series_Disambiguation.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Series_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Series_Id.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Series_Name.htm" />
+        <HelpTOCNode Title="Orderingattribute Property " Url="html/P_MusicBrainz_Metadata_Series_Orderingattribute.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Series_Relationlist.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Series_Taglist.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Series_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Series_Typeid.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Series_Usergenrelist.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Series_Usertaglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8e87491d-d8dc-4a28-bf62-9a531dccdf8c" Title="Serieslist Class" Url="html/T_MusicBrainz_Metadata_Serieslist.htm">
+      <HelpTOCNode Title="Serieslist Constructor " Url="html/M_MusicBrainz_Metadata_Serieslist__ctor.htm" />
+      <HelpTOCNode Id="c33a8219-9331-47a7-8b43-2b1f0d5a92ed" Title="Serieslist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Serieslist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Serieslist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Serieslist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Serieslist_Offset.htm" />
+        <HelpTOCNode Title="Series Property " Url="html/P_MusicBrainz_Metadata_Serieslist_Series.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="85b7c471-f10a-49ae-88b0-58fa417f7217" Title="Status Class" Url="html/T_MusicBrainz_Metadata_Status.htm">
+      <HelpTOCNode Title="Status Constructor " Url="html/M_MusicBrainz_Metadata_Status__ctor.htm" />
+      <HelpTOCNode Id="a3043941-ba0a-40dc-83d9-a42709d67dfd" Title="Status Properties" Url="html/Properties_T_MusicBrainz_Metadata_Status.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Status_Id.htm" />
+        <HelpTOCNode Title="Text Property " Url="html/P_MusicBrainz_Metadata_Status_Text.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1e372973-6005-40f0-823b-8859235d226a" Title="Tag Class" Url="html/T_MusicBrainz_Metadata_Tag.htm">
+      <HelpTOCNode Title="Tag Constructor " Url="html/M_MusicBrainz_Metadata_Tag__ctor.htm" />
+      <HelpTOCNode Id="02428873-3dbe-4872-ad43-773a9dcbe7b0" Title="Tag Properties" Url="html/Properties_T_MusicBrainz_Metadata_Tag.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Tag_Count.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Tag_Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f88f33e3-7891-4a74-95f1-a45799f5aacb" Title="Taglist Class" Url="html/T_MusicBrainz_Metadata_Taglist.htm">
+      <HelpTOCNode Title="Taglist Constructor " Url="html/M_MusicBrainz_Metadata_Taglist__ctor.htm" />
+      <HelpTOCNode Id="4200b013-8c0e-44ef-8dfe-59ad86561ac5" Title="Taglist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Taglist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Taglist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Taglist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Taglist_Offset.htm" />
+        <HelpTOCNode Title="Tag Property " Url="html/P_MusicBrainz_Metadata_Taglist_Tag.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="5878f1ba-a865-4e4d-8086-bc09357e8f2a" Title="Target Class" Url="html/T_MusicBrainz_Metadata_Target.htm">
+      <HelpTOCNode Title="Target Constructor " Url="html/M_MusicBrainz_Metadata_Target__ctor.htm" />
+      <HelpTOCNode Id="742db7b4-c3d2-4e1f-b3ff-75f730259cf5" Title="Target Properties" Url="html/Properties_T_MusicBrainz_Metadata_Target.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Target_Id.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/P_MusicBrainz_Metadata_Target_Value.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3ad15812-1193-45f5-847d-aacd49af5639" Title="Textrepresentation Class" Url="html/T_MusicBrainz_Metadata_Textrepresentation.htm">
+      <HelpTOCNode Title="Textrepresentation Constructor " Url="html/M_MusicBrainz_Metadata_Textrepresentation__ctor.htm" />
+      <HelpTOCNode Id="77da1616-1e0c-48c9-ae2c-ac782c3a0acd" Title="Textrepresentation Properties" Url="html/Properties_T_MusicBrainz_Metadata_Textrepresentation.htm">
+        <HelpTOCNode Title="Language Property " Url="html/P_MusicBrainz_Metadata_Textrepresentation_Language.htm" />
+        <HelpTOCNode Title="Script Property " Url="html/P_MusicBrainz_Metadata_Textrepresentation_Script.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="924edba3-6785-44a8-8f52-87aa6549b0f3" Title="TrackData Class" Url="html/T_MusicBrainz_Metadata_TrackData.htm">
+      <HelpTOCNode Title="TrackData Constructor " Url="html/M_MusicBrainz_Metadata_TrackData__ctor.htm" />
+      <HelpTOCNode Id="3c8f4e5d-1ffd-4e19-bee5-97a879221393" Title="TrackData Properties" Url="html/Properties_T_MusicBrainz_Metadata_TrackData.htm">
+        <HelpTOCNode Title="Artistcredit Property " Url="html/P_MusicBrainz_Metadata_TrackData_Artistcredit.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_TrackData_Id.htm" />
+        <HelpTOCNode Title="Length Property " Url="html/P_MusicBrainz_Metadata_TrackData_Length.htm" />
+        <HelpTOCNode Title="Number Property " Url="html/P_MusicBrainz_Metadata_TrackData_Number.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/P_MusicBrainz_Metadata_TrackData_Position.htm" />
+        <HelpTOCNode Title="Recording Property " Url="html/P_MusicBrainz_Metadata_TrackData_Recording.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_MusicBrainz_Metadata_TrackData_Title.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="30e0824c-f695-40ce-8bf4-c1fbad781454" Title="Url Class" Url="html/T_MusicBrainz_Metadata_Url.htm">
+      <HelpTOCNode Title="Url Constructor " Url="html/M_MusicBrainz_Metadata_Url__ctor.htm" />
+      <HelpTOCNode Id="b887b7f1-4c50-4e80-9e49-0e75dc383c4f" Title="Url Properties" Url="html/Properties_T_MusicBrainz_Metadata_Url.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Url_ApiStatus.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Url_Id.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Url_Relationlist.htm" />
+        <HelpTOCNode Title="Resource Property " Url="html/P_MusicBrainz_Metadata_Url_Resource.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="bbbd7c67-61a3-4d9f-ac7f-d720e440e99e" Title="Urllist Class" Url="html/T_MusicBrainz_Metadata_Urllist.htm">
+      <HelpTOCNode Title="Urllist Constructor " Url="html/M_MusicBrainz_Metadata_Urllist__ctor.htm" />
+      <HelpTOCNode Id="01be1c92-efdb-4585-b1d9-26c5c8f1ef92" Title="Urllist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Urllist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Urllist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Urllist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Urllist_Offset.htm" />
+        <HelpTOCNode Title="Url Property " Url="html/P_MusicBrainz_Metadata_Urllist_Url.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="82b16e15-cfc5-4ef7-8545-6ce22a02a07b" Title="Usergenre Class" Url="html/T_MusicBrainz_Metadata_Usergenre.htm">
+      <HelpTOCNode Title="Usergenre Constructor " Url="html/M_MusicBrainz_Metadata_Usergenre__ctor.htm" />
+      <HelpTOCNode Id="f8b3a583-9148-4fae-b277-b79b2d3d53d5" Title="Usergenre Properties" Url="html/Properties_T_MusicBrainz_Metadata_Usergenre.htm">
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Usergenre_Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6da753a6-e8ae-44ea-962f-2b38d8dc7d53" Title="Usergenrelist Class" Url="html/T_MusicBrainz_Metadata_Usergenrelist.htm">
+      <HelpTOCNode Title="Usergenrelist Constructor " Url="html/M_MusicBrainz_Metadata_Usergenrelist__ctor.htm" />
+      <HelpTOCNode Id="9f2d1a91-4967-4a24-a245-6bda78301af2" Title="Usergenrelist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Usergenrelist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Usergenrelist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Usergenrelist_Offset.htm" />
+        <HelpTOCNode Title="Usergenre Property " Url="html/P_MusicBrainz_Metadata_Usergenrelist_Usergenre.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4d5322cc-32d9-4c5b-84d8-3a5a1f9d1ca4" Title="Usertag Class" Url="html/T_MusicBrainz_Metadata_Usertag.htm">
+      <HelpTOCNode Title="Usertag Constructor " Url="html/M_MusicBrainz_Metadata_Usertag__ctor.htm" />
+      <HelpTOCNode Id="f8127031-1dee-4105-97ec-da47fc369c06" Title="Usertag Properties" Url="html/Properties_T_MusicBrainz_Metadata_Usertag.htm">
+        <HelpTOCNode Title="Name Property " Url="html/P_MusicBrainz_Metadata_Usertag_Name.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8f351385-b500-4421-97e9-84ab79024459" Title="Usertaglist Class" Url="html/T_MusicBrainz_Metadata_Usertaglist.htm">
+      <HelpTOCNode Title="Usertaglist Constructor " Url="html/M_MusicBrainz_Metadata_Usertaglist__ctor.htm" />
+      <HelpTOCNode Id="4f31b773-45f8-4d9e-ad6a-e8936a50e5a7" Title="Usertaglist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Usertaglist.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Usertaglist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Usertaglist_Offset.htm" />
+        <HelpTOCNode Title="Usertag Property " Url="html/P_MusicBrainz_Metadata_Usertaglist_Usertag.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Video Enumeration" Url="html/T_MusicBrainz_Metadata_Video.htm" />
+    <HelpTOCNode Id="28319fcb-0754-450c-b82a-fa5721263f76" Title="Work Class" Url="html/T_MusicBrainz_Metadata_Work.htm">
+      <HelpTOCNode Title="Work Constructor " Url="html/M_MusicBrainz_Metadata_Work__ctor.htm" />
+      <HelpTOCNode Id="9d137009-4521-49d1-ad62-22bf023cc1ce" Title="Work Properties" Url="html/Properties_T_MusicBrainz_Metadata_Work.htm">
+        <HelpTOCNode Title="Aliaslist Property " Url="html/P_MusicBrainz_Metadata_Work_Aliaslist.htm" />
+        <HelpTOCNode Title="Annotation Property " Url="html/P_MusicBrainz_Metadata_Work_Annotation.htm" />
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Work_ApiStatus.htm" />
+        <HelpTOCNode Title="Artistcredit Property " Url="html/P_MusicBrainz_Metadata_Work_Artistcredit.htm" />
+        <HelpTOCNode Title="Attributelist Property " Url="html/P_MusicBrainz_Metadata_Work_Attributelist.htm" />
+        <HelpTOCNode Title="Disambiguation Property " Url="html/P_MusicBrainz_Metadata_Work_Disambiguation.htm" />
+        <HelpTOCNode Title="Genrelist Property " Url="html/P_MusicBrainz_Metadata_Work_Genrelist.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_MusicBrainz_Metadata_Work_Id.htm" />
+        <HelpTOCNode Title="Iswc Property " Url="html/P_MusicBrainz_Metadata_Work_Iswc.htm" />
+        <HelpTOCNode Title="Iswclist Property " Url="html/P_MusicBrainz_Metadata_Work_Iswclist.htm" />
+        <HelpTOCNode Title="Language Property " Url="html/P_MusicBrainz_Metadata_Work_Language.htm" />
+        <HelpTOCNode Title="Languagelist Property " Url="html/P_MusicBrainz_Metadata_Work_Languagelist.htm" />
+        <HelpTOCNode Title="Rating Property " Url="html/P_MusicBrainz_Metadata_Work_Rating.htm" />
+        <HelpTOCNode Title="Relationlist Property " Url="html/P_MusicBrainz_Metadata_Work_Relationlist.htm" />
+        <HelpTOCNode Title="Taglist Property " Url="html/P_MusicBrainz_Metadata_Work_Taglist.htm" />
+        <HelpTOCNode Title="Title Property " Url="html/P_MusicBrainz_Metadata_Work_Title.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_Work_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_Work_Typeid.htm" />
+        <HelpTOCNode Title="Usergenrelist Property " Url="html/P_MusicBrainz_Metadata_Work_Usergenrelist.htm" />
+        <HelpTOCNode Title="Userrating Property " Url="html/P_MusicBrainz_Metadata_Work_Userrating.htm" />
+        <HelpTOCNode Title="Usertaglist Property " Url="html/P_MusicBrainz_Metadata_Work_Usertaglist.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="474b77a7-1b68-43b8-b7af-408b47efc4b1" Title="WorkAttribute Class" Url="html/T_MusicBrainz_Metadata_WorkAttribute.htm">
+      <HelpTOCNode Title="WorkAttribute Constructor " Url="html/M_MusicBrainz_Metadata_WorkAttribute__ctor.htm" />
+      <HelpTOCNode Id="47fcf910-6cc0-4e40-afec-365b5aa0a819" Title="WorkAttribute Properties" Url="html/Properties_T_MusicBrainz_Metadata_WorkAttribute.htm">
+        <HelpTOCNode Title="Text Property " Url="html/P_MusicBrainz_Metadata_WorkAttribute_Text.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_MusicBrainz_Metadata_WorkAttribute_Type.htm" />
+        <HelpTOCNode Title="Typeid Property " Url="html/P_MusicBrainz_Metadata_WorkAttribute_Typeid.htm" />
+        <HelpTOCNode Title="Valueid Property " Url="html/P_MusicBrainz_Metadata_WorkAttribute_Valueid.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7ee963cc-6883-4697-8066-21ab48775165" Title="Worklist Class" Url="html/T_MusicBrainz_Metadata_Worklist.htm">
+      <HelpTOCNode Title="Worklist Constructor " Url="html/M_MusicBrainz_Metadata_Worklist__ctor.htm" />
+      <HelpTOCNode Id="3a91df25-daa8-4616-8b5b-a70e30f0e1b9" Title="Worklist Properties" Url="html/Properties_T_MusicBrainz_Metadata_Worklist.htm">
+        <HelpTOCNode Title="ApiStatus Property " Url="html/P_MusicBrainz_Metadata_Worklist_ApiStatus.htm" />
+        <HelpTOCNode Title="Count Property " Url="html/P_MusicBrainz_Metadata_Worklist_Count.htm" />
+        <HelpTOCNode Title="Offset Property " Url="html/P_MusicBrainz_Metadata_Worklist_Offset.htm" />
+        <HelpTOCNode Title="Work Property " Url="html/P_MusicBrainz_Metadata_Worklist_Work.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
