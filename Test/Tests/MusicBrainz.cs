@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MusicBrainz;
+using MusicBrainz.Metadata;
 
 namespace Tests
 {
@@ -12,7 +13,7 @@ namespace Tests
         [TestMethod]
         public void Query()
         {
-            // 
+           
             // https://musicbrainz.org/ws/2/instrument/?query=bass
             var ret = Search.Query("instrument", "?query=bass");
         }

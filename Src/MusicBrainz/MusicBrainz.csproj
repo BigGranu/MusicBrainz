@@ -63,6 +63,9 @@
 	<ItemGroup Condition="'$(TargetFramework)' == 'net45' OR '$(TargetFramework)' == 'net46' OR '$(TargetFramework)' == 'net47'">
 		<Reference Include="System.Net.Http" />
 	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="BigGranu.FanartTv" Version="1.1.1" />
+	</ItemGroup>
 
 	<PropertyGroup Condition="'$(TargetFramework)' == 'net20'">
 		<DocumentationFile>bin\Debug\net20\MusicBrainz.xml</DocumentationFile>
